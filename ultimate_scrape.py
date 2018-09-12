@@ -39,7 +39,7 @@ def getDateFromText(date):
 
 	newDate += ("/" + date[-4:])
 
-	date_substrings = newDate.split('/');
+	date_substrings = newDate.split('/')
 
 	if(len(date_substrings[1]) == 1):
 		date_substrings[1] = '0' + date_substrings[1]
@@ -49,35 +49,35 @@ def getDateFromText(date):
 	return formattedDate
 
 def getEnumPosition(position):
-	if(position == 'Goalkeeper'):
+	if(position == 'Goalkeeper' or position == 'torwart'):
 		return 'GK'
 	if(position == 'Defence' or position == 'Defender'):
 		return 'D'
-	if(position == 'Defence-Left-Back' or position == 'Defender-Left-Back'):
+	if(position == 'Defence-Left-Back' or position == 'Defender-Left-Back' or position == 'abwehr-Left-Back'):
 		return 'LB'
-	if(position == 'Defence-Centre-Back' or position == 'Defender-Centre-Back'):
+	if(position == 'Defence-Centre-Back' or position == 'Defender-Centre-Back' or position == 'abwehr-Centre-Back'):
 		return 'CB'
 	if(position == 'Defence-Right-Back' or position == 'Defender-Right-Back'):
 		return 'RB'
-	if(position == 'Midfield' or position == 'Midfielder'):
+	if(position == 'Midfield' or position == 'Midfielder' or position == 'abwehr-Right-Back'):
 		return 'M'
-	if(position == 'Midfield-DefensiveMidfield' or position == 'Midfielder-DefensiveMidfield'):
+	if(position == 'Midfield-DefensiveMidfield' or position == 'Midfielder-DefensiveMidfield' or position == 'mittelfeld-DefensiveMidfield'):
 		return 'DM'
-	if(position == 'Midfield-CentralMidfield' or position == 'Midfielder-CentralMidfield'):
+	if(position == 'Midfield-CentralMidfield' or position == 'Midfielder-CentralMidfield' or position == 'mittelfeld-CentralMidfield'):
 		return 'CM'
-	if(position == 'Midfield-LeftMidfield' or position == 'Midfielder-LeftMidfield'):
+	if(position == 'Midfield-LeftMidfield' or position == 'Midfielder-LeftMidfield' or position == 'mittelfeld-LeftMidfield'):
 		return 'LM'
-	if(position == 'Midfield-RightMidfield' or position == 'Midfielder-RightMidfield'):
+	if(position == 'Midfield-RightMidfield' or position == 'Midfielder-RightMidfield' or position == 'mittelfeld-RightMidfield'):
 		return 'RM'
-	if(position == 'Midfield-AttackingMidfield' or position == 'Midfielder-AttackingMidfield'):
+	if(position == 'Midfield-AttackingMidfield' or position == 'Midfielder-AttackingMidfield' or position == 'mittelfeld-AttackingMidfield'):
 		return 'AM'
-	if(position == 'Striker-LeftWing' or position == 'Forward-LeftWinger'):
+	if(position == 'Striker-LeftWing' or position == 'Forward-LeftWinger' or position == 'sturm-LeftWinger'):
 		return 'LW'
-	if(position == 'Striker-RightWing' or position == 'Forward-RightWinger'):
+	if(position == 'Striker-RightWing' or position == 'Forward-RightWinger' or position == 'sturm-RightWinger'):
 		return 'RW'
-	if(position == 'Striker-Centre-Forward' or position == 'Forward-Centre-Forward'):
+	if(position == 'Striker-Centre-Forward' or position == 'Forward-Centre-Forward' or position == 'sturm-Centre-Forward'):
 		return 'CF'
-	if(position == 'Striker-SecondaryStriker' or position == 'Forward-SecondStriker'):
+	if(position == 'Striker-SecondaryStriker' or position == 'Forward-SecondStriker' or position == 'sturm-SecondStriker'):
 		return 'SS'
 	if(position == 'Striker' or position == 'Forward'):
 		return 'ST'
@@ -86,12 +86,18 @@ def getEnumPosition(position):
 		return position
 
 def getValue(number, multiplier):
-	number = number.split('\n')[1].split('k')[0].split('m')[0][1:]
+	number = number.split('\n')[1].split('k')[0].split('m')[0][1:].split(' ')[0]
+	multiplier = multiplier.lstrip()
 
 	if multiplier == 'k':
 		return float(number) * 1000
 	if multiplier == 'm':
 		return float(number) * 1000000
+	if multiplier[0] == 'T':
+		return float(number) * 1000
+
+	print('Broken Value: Number = ' + str(number), ', Mult = ' + multiplier)
+	return 'Broken Value: Number = ' + str(number), ', Mult = ' + multiplier
 
 
 import requests, bs4, time
@@ -103,7 +109,7 @@ if league_urls[0] == 'MLS':
 
 time_start = time.time()
 
-headers = {"User-Agent":"Mozilla/5.0"}
+headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
 
 print('Time Start: ' + str(time_start))
 
@@ -117,7 +123,7 @@ for league_url in league_urls:
 
 ##################### BEGIN THE SCRAPE! ##################################
 	response = requests.get(league_url, headers=headers)
-	time.sleep(.5)
+	time.sleep(2)
 	soup = bs4.BeautifulSoup(response.text, 'lxml')
 
 
@@ -126,7 +132,7 @@ for league_url in league_urls:
 
 	league_abbrev = league_url.split('/')[-3]
 	league_name = soup.find('h1').getText()
-	league_country = soup.find('select', {'data-placeholder' : 'Country'}).option.getText();
+	league_country = soup.find('option', {'selected' : 'selected'}).getText()
 
 	season_id = league_url.split('saison_id=')[1]
 
@@ -148,7 +154,7 @@ for league_url in league_urls:
 	for league_table in league_tables:
 		teams += league_table.tbody.findAll('tr')
 
-	team_count = 0;
+	team_count = 0
 
 
 	for team in teams:
@@ -182,13 +188,13 @@ for league_url in league_urls:
 
 		players = odd_rows + even_rows
 
-		count = 0;
+		count = 0
 
 		for player in players:	
 
 			count += 1	
 
-			player_data = player.findAll('td', {'class' : 'zentriert'});	
+			player_data = player.findAll('td', {'class' : 'zentriert'})
 
 			player_id = player.find('a', {'class' : 'spielprofil_tooltip'})["id"]
 			player_url = "https://www.transfermarkt.co.uk" + player.find('a', {'class' : 'spielprofil_tooltip'})["href"]
@@ -205,7 +211,7 @@ for league_url in league_urls:
 			player_soup = bs4.BeautifulSoup(player_response.text, 'lxml')	
 
 			spielerdaten = player_soup.find('div', {'class' : 'spielerdaten'})
-			sd = spielerdaten.findAll('tr');	
+			sd = spielerdaten.findAll('tr')
 
 			birthdate = 'N/A'
 			birthplace  = 'N/A'
@@ -286,26 +292,12 @@ for league_url in league_urls:
 
 			if(minutes == ''):
 				minutes = '0'	
-		
 
-			# print(player_id)
-			# print(player_name)
-			# print(birthdate)
-			# print(birthplace)
-			# print(birth_country)
-			# print(height)
-			# print(nat1)
-			# print(nat2)
-			# print(position)
-			# print(team)
-			# print(number)
-			# print(player_value)
-
-			f.write('2,' + player_id + ',' + player_name + ',' + birthdate + ',' + birthplace + ',' + birth_country + ',' + height + ',' + nat1 + ',' + nat2 + ',' + position + ',' + team + ',' + number + ',' + player_value + '\n')	
+			f.write('2,' + player_id + ',' + player_name + ',' + birthdate + ',' + birthplace + ',' + birth_country + ',' + height + ',' + nat1 + ',' + nat2 + ',' + position + ',' + team + ',' + number + ',' + player_value + '\n')
 
 
 	##################### ADDING GAMES AND EVENTS #########################
-	fixtures_url = 'https://www.transfermarkt.co.uk' + soup.find('table', {'class' : 'livescore'}).find('div', {'class' : 'footer-links'}).a['href']
+	fixtures_url = 'https://www.transfermarkt.co.uk' + soup.find('table', {'class' : 'livescore'}).findAll('div', {'class' : 'footer-links'})[1].a['href']
 
 	fixtures_response = requests.get(fixtures_url, headers=headers)
 	time.sleep(.5)
@@ -316,9 +308,9 @@ for league_url in league_urls:
 	# FIRST THREE TABLES ARE USELESS
 	ftables = all_tables[3:]
 
-	number_of_games = int(len(ftables) * len(teams) / 2); ### CAHGNE BACK TO NENGTH OF TEAMS
+	number_of_games = int(len(ftables) * len(teams) / 2)
 
-	game_count = 0;
+	game_count = 0
 
 	for ftable in ftables:
 
@@ -341,19 +333,19 @@ for league_url in league_urls:
 
 			game_id = game_url.split('https://www.transfermarkt.co.uk/spielbericht/index/spielbericht/')[1]
 
-			game_date = getDateFromText(game_soup.find('div', {'class' : 'sb-spieldaten'}).p.findAll('a')[1].getText().replace(',','')[4:]);
+			print('Game '+str(game_id)+' Progress: ' + str(game_count) + '/' + str(number_of_games) + ' of league ' + str(league_counter) + '/' + str(len(league_urls)) + ': ' + str(((50 + 50 * game_count/number_of_games)/len(league_urls)))[:5] + '%')
 
-			team_infos = game_soup.findAll('a', {'class' : 'sb-vereinslink'});
+			game_date = getDateFromText(game_soup.find('div', {'class' : 'sb-spieldaten'}).p.findAll('a')[1].getText().replace(',','')[4:])
+
+			team_infos = game_soup.findAll('a', {'class' : 'sb-vereinslink'})
 			
-			home = team_infos[4]['id'];
-			away = team_infos[5]['id'];		
-
-			print('Game '+str(game_id)+' Progress: ' + str(game_count) + '/' + str(number_of_games) + ' of league ' + str(league_counter) + '/' + str(len(league_urls)) + ': ' + str(((50 + 50 * game_count/number_of_games)/len(league_urls)))[:5] + '%');
+			home = team_infos[4]['id']
+			away = team_infos[5]['id']
 
 			lazy_p = game_soup.find('p', {'class' : 'sb-zusatzinfos'})		
 
-			location = lazy_p.a.getText();
-			attendance = lazy_p.strong.getText()[12:].replace('.','');
+			location = lazy_p.a.getText()
+			attendance = lazy_p.strong.getText()[12:].replace('.','')
 			referee = lazy_p.findAll('a')[1].getText()		
 
 			home_container = game_soup.select('div.large-6.columns')[1]
@@ -364,17 +356,17 @@ for league_url in league_urls:
 			
 			# In case the game lineups are broken
 			#0 means both work, 1 means home doesn't work, 2 means away doesn't work, 3 means both don't work
-			lineup_error_code = 0;
+			lineup_error_code = 0
 
 			filteredHTables = home_container.find_all('table', class_=lambda x: x != 'ersatzbank')
 			filteredATables = away_container.find_all('table', class_=lambda x: x != 'ersatzbank')
 
 			if(len(filteredHTables) > 0):
-				lineup_error_code = 1;
+				lineup_error_code = 1
 				home_alternate_containers = filteredHTables[0].findAll('a')
 			
 			if(len(filteredATables) > 0):
-				lineup_error_code = lineup_error_code + 2;
+				lineup_error_code = lineup_error_code + 2
 				away_alternate_containers = filteredATables[0].findAll('a')
 			
 
@@ -457,13 +449,13 @@ for league_url in league_urls:
 				action_team = '-1'		
 
 				if(action.find('div', {'class' : 'sb-aktion-uhr'}).span is not None):
-					action_time = offsetToTime(action.find('div', {'class' : 'sb-aktion-uhr'}).span['style']);
+					action_time = offsetToTime(action.find('div', {'class' : 'sb-aktion-uhr'}).span['style'])
 				else:
 					action_time = 'MOTM INSTANCE'
 
-				aktion = action.find('div', {'class' : 'sb-aktion-aktion'});
-				spielstand = action.find('div', {'class' : 'sb-aktion-spielstand'});
-				wappen = action.find('div', {'class' : 'sb-aktion-wappen'});		
+				aktion = action.find('div', {'class' : 'sb-aktion-aktion'})
+				spielstand = action.find('div', {'class' : 'sb-aktion-spielstand'})
+				wappen = action.find('div', {'class' : 'sb-aktion-wappen'})
 
 				# Check if goal
 				if spielstand.b:
