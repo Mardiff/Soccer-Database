@@ -346,7 +346,11 @@ for league_url in league_urls:
 
 			location = lazy_p.a.getText()
 			attendance = lazy_p.strong.getText()[12:].replace('.','')
-			referee = lazy_p.findAll('a')[1].getText()		
+
+			referee = 'N/A'
+
+			if len(lazy_p.findAll('a')) > 1:
+				referee = lazy_p.findAll('a')[1].getText()
 
 			home_container = game_soup.select('div.large-6.columns')[1]
 			away_container = game_soup.select('div.large-6.columns')[2]
@@ -378,9 +382,225 @@ for league_url in league_urls:
 
 			location = sanitizeData(location)
 			referee = sanitizeData(referee)
+			
+			if game_id == '2990891':
+				print('This game has a manual entry. Check and see if the data manager has fixed it so you can clean your code')
+
+				home_lineup.append('76592')
+				home_lineup.append('123475')
+				home_lineup.append('186201')
+				home_lineup.append('52622')
+				home_lineup.append('352887')
+				home_lineup.append('53027')
+				home_lineup.append('135867')
+				home_lineup.append('242303')
+				home_lineup.append('249776')
+				home_lineup.append('129724')
+				home_lineup.append('160700')
+
+				away_lineup.append('227671')
+				away_lineup.append('244724')
+				away_lineup.append('76157')
+				away_lineup.append('107136')
+				away_lineup.append('87493')
+				away_lineup.append('73644')
+				away_lineup.append('164749')
+				away_lineup.append('55386')
+				away_lineup.append('185623')
+				away_lineup.append('113217')
+				away_lineup.append('172285')
+
+			elif game_id == '2726507':
+				print('This game has a manual entry. Check and see if the data manager has fixed it so you can clean your code')
+
+				home_lineup.append('22318')
+				home_lineup.append('195810')
+				home_lineup.append('44420')
+				home_lineup.append('111196')
+				home_lineup.append('199733')
+				home_lineup.append('61449')
+				home_lineup.append('266302')
+				home_lineup.append('84545')
+				home_lineup.append('47065')
+				home_lineup.append('159372')
+				home_lineup.append('105521')
+
+				away_lineup.append('7797')
+				away_lineup.append('124555')
+				away_lineup.append('21782')
+				away_lineup.append('205054')
+				away_lineup.append('216872')
+				away_lineup.append('121402')
+				away_lineup.append('131109')
+				away_lineup.append('199248')
+				away_lineup.append('139634')
+				away_lineup.append('162961')
+				away_lineup.append('146752')
+
+			elif game_id == '2726663':
+				print('This game has a manual entry. Check and see if the data manager has fixed it so you can clean your code')
+
+				home_lineup.append('22318')
+				home_lineup.append('195810')
+				home_lineup.append('44420')
+				home_lineup.append('111196')
+				home_lineup.append('26721')
+				home_lineup.append('128220')
+				home_lineup.append('61449')
+				home_lineup.append('266302')
+				home_lineup.append('84545')
+				home_lineup.append('159372')
+				home_lineup.append('105521')
+
+				away_lineup.append('77825')
+				away_lineup.append('197470')
+				away_lineup.append('111227')
+				away_lineup.append('22139')
+				away_lineup.append('34198')
+				away_lineup.append('118689')
+				away_lineup.append('44059')
+				away_lineup.append('148252')
+				away_lineup.append('85825')
+				away_lineup.append('20005')
+				away_lineup.append('199258')
+
+			elif game_id == '2826762':
+				print('This game has a manual entry. Check and see if the data manager has fixed it so you can clean your code')
+
+				home_lineup.append('227671')
+				home_lineup.append('39454')
+				home_lineup.append('244724')
+				home_lineup.append('76157')
+				home_lineup.append('107136')
+				home_lineup.append('500994')
+				home_lineup.append('19955')
+				home_lineup.append('55386')
+				home_lineup.append('90147')
+				home_lineup.append('160700')
+				home_lineup.append('54022')
+
+				away_lineup.append('51048')
+				away_lineup.append('74233')
+				away_lineup.append('223267')
+				away_lineup.append('51078')
+				away_lineup.append('221412')
+				away_lineup.append('70834')
+				away_lineup.append('65243')
+				away_lineup.append('160217')
+				away_lineup.append('51079')
+				away_lineup.append('139430')
+				away_lineup.append('145602')
+
+			elif game_id == '2990895':
+				print('This game has a manual entry. Check and see if the data manager has fixed it so you can clean your code')
+
+				home_lineup.append('215473')
+				home_lineup.append('59100')
+				home_lineup.append('71161')
+				home_lineup.append('74421')
+				home_lineup.append('71468')
+				home_lineup.append('120093')
+				home_lineup.append('77172')
+				home_lineup.append('52618')
+				home_lineup.append('549361')
+				home_lineup.append('40822')
+				home_lineup.append('71433')
+
+				away_lineup.append('55142')
+				away_lineup.append('234166')
+				away_lineup.append('171043')
+				away_lineup.append('209513')
+				away_lineup.append('147632')
+				away_lineup.append('353583')
+				away_lineup.append('37918')
+				away_lineup.append('274963')
+				away_lineup.append('308477')
+				away_lineup.append('366143')
+				away_lineup.append('366620')
+
+			elif game_id == '2826764':
+				print('This game has a manual entry. Check and see if the data manager has fixed it so you can clean your code')
+
+				home_lineup.append('401311')
+				home_lineup.append('264133')
+				home_lineup.append('419457')
+				home_lineup.append('264126')
+				home_lineup.append('75612')
+				home_lineup.append('228255')
+				home_lineup.append('53046')
+				home_lineup.append('162947')
+				home_lineup.append('262554')
+				home_lineup.append('119245')
+				home_lineup.append('54839')
+
+				away_lineup.append('71433')
+				away_lineup.append('40822')
+				away_lineup.append('54590')
+				away_lineup.append('52618')
+				away_lineup.append('302643')
+				away_lineup.append('295426')
+				away_lineup.append('87493')
+				away_lineup.append('186201')
+				away_lineup.append('71161')
+				away_lineup.append('104233')
+				away_lineup.append('215473')
+
+			elif game_id == '2826767':
+				print('This game has a manual entry. Check and see if the data manager has fixed it so you can clean your code')
+
+				home_lineup.append('50965')
+				home_lineup.append('76391')
+				home_lineup.append('83330')
+				home_lineup.append('51044')
+				home_lineup.append('38800')
+				home_lineup.append('103402')
+				home_lineup.append('26268')
+				home_lineup.append('119030')
+				home_lineup.append('54845')
+				home_lineup.append('52991')
+				home_lineup.append('19946')
+
+				away_lineup.append('76908')
+				away_lineup.append('52989')
+				away_lineup.append('102438')
+				away_lineup.append('89294')
+				away_lineup.append('76717')
+				away_lineup.append('90605')
+				away_lineup.append('322115')
+				away_lineup.append('64083')
+				away_lineup.append('147610')
+				away_lineup.append('249789')
+				away_lineup.append('69959')
+
+			elif game_id == '2826769':
+				print('This game has a manual entry. Check and see if the data manager has fixed it so you can clean your code')
+
+				home_lineup.append('53592')
+				home_lineup.append('64134')
+				home_lineup.append('469718')
+				home_lineup.append('116968')
+				home_lineup.append('356044')
+				home_lineup.append('73630')
+				home_lineup.append('295424')
+				home_lineup.append('197170')
+				home_lineup.append('149393')
+				home_lineup.append('280795')
+				home_lineup.append('228867')
+
+				away_lineup.append('55142')
+				away_lineup.append('171043')
+				away_lineup.append('131066')
+				away_lineup.append('28087')
+				away_lineup.append('67712')
+				away_lineup.append('50945')
+				away_lineup.append('124734')
+				away_lineup.append('155054')
+				away_lineup.append('103790')
+				away_lineup.append('113217')
+				away_lineup.append('238011')
 
 			# Everything works fine
-			if(lineup_error_code == 0):
+			elif(lineup_error_code == 0):
 				for player in home_player_containers[:11]:
 					home_lineup.append(player.span['id'])
 
@@ -425,6 +645,10 @@ for league_url in league_urls:
 
 				hmanager = home_alternate_containers[11].getText()
 				amanager = away_alternate_containers[11].getText()
+
+			# It's a no data situation
+			else:
+				print('Game ' + game_id + ' is broken. If you haven\'t manually added the lineup in the code, it will not work.')
 				
 		
 			formation_containers = game_soup.findAll('div', {'class' : 'aufstellung-unterueberschrift'})		
