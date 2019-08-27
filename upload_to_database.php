@@ -1,7 +1,7 @@
 <?php
 
-$filepath = readline("Enter the filepath.\n");
-$database = readline("Which database?\n");
+$filepath = rtrim(readline("Enter the filepath.\n"));
+$database = rtrim(readline("Which database?\n"));
 
 
 //Connect to myPHPAdmin

@@ -105,7 +105,12 @@ import requests, bs4, time
 input_league_url = input("Enter league url with saison included: ")
 league_urls = [input_league_url]
 if league_urls[0] == 'MLS':
-	league_urls[0] = 'https://www.transfermarkt.co.uk/major-league-soccer/startseite/wettbewerb/MLS1/plus/?saison_id=2017'
+	league_urls[0] = 'https://www.transfermarkt.co.uk/major-league-soccer/startseite/wettbewerb/MLS1/plus/?saison_id=2018'
+elif league_urls[0] == 'USL':
+	league_urls[0] = 'https://www.transfermarkt.us/usl-championship/startseite/wettbewerb/USL/plus/?saison_id=2018'
+elif league_urls[0] == 'USLL1':
+	league_urls[0] = 'https://www.transfermarkt.us/usl-league-one/startseite/wettbewerb/USC3/plus/?saison_id=2018'
+
 
 time_start = time.time()
 
