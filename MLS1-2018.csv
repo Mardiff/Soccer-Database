@@ -1,594 +1,413 @@
-Name,Birthday,Position,Team,Value
-Andre Blake,11/21/90,GK,Philadelphia Union,1350000
-Brad Guzan,9/9/84,GK,ATL,720000
-Brendan Moore,4/16/92,GK,ATL,90000
-Miles Robinson,3/14/97,CB,ATL,765000
-Franco Escobar,2/21/95,RB,ATL,675000
-George Bello,1/22/02,LB,ATL,360000
-Julian Gressel,12/16/93,RM,ATL,2250000
-Eric Remedi,6/4/95,DM,ATL,1580000
-Brek Shea,2/28/90,LM,ATL,675000
-Kevin Kratz,1/21/87,CM,ATL,450000
-Josef Martínez,5/19/93,CF,ATL,9000000
-Héctor Villalba,7/26/94,RW,ATL,3600000
-Dion Pereira,3/25/99,LW,ATL,315000
-Brandon Vázquez,10/14/98,CF,ATL,180000
-Alec Kann,8/8/90,GK,ATL,315000
-Leandro González Pírez,2/26/92,CB,ATL,2029999
-Florentin Pogba,8/19/90,CB,ATL,720000
-Michael Parkhurst,1/24/84,CB,ATL,405000
-Mikey Ambrose,10/5/93,LB,ATL,225000
-Darlington Nagbe,7/19/90,CM,ATL,1580000
-Emerson Hyndman,4/7/96,CM,ATL,900000
-Mo Adams,9/23/96,CM,ATL,450000
-Jeff Larentowicz,8/5/83,DM,ATL,270000
-Gonzalo Martínez,6/13/93,LW,ATL,13500000
-Ezequiel Barco,3/23/99,LW,ATL,7200000
-Justin Meram,12/4/88,LW,ATL,1350000
-Mo Adams,9/23/96,CM,ATL,450000
-Justin Meram,12/4/88,LW,ATL,1350000
-Mike Azira,8/22/87,DM,CHI,360000
-David Ousted,2/1/85,GK,CHI,450000
-Richard Sánchez,4/5/94,GK,CHI,270000
-Gabriel Slonina,5/15/04,GK,CHI,90000
-Francisco Calvo,7/8/92,LB,CHI,675000
-Jonathan Bornstein,11/7/84,LB,CHI,315000
-Andre Reynolds II,5/2/01,LB,CHI,45000
-Bastian Schweinsteiger,8/1/84,CM,CHI,2250000
-Dax McCarty,4/30/87,CM,CHI,900000
-Christian Martínez,2/6/97,RM,CHI,405000
-Jeremiah Gutjahr,8/10/97,RM,CHI,158000
-Aleksandar Katai,2/6/91,LW,CHI,1800000
-CJ Sapong,12/27/88,CF,CHI,1130000
-Fabian Herbers,8/17/93,RW,CHI,315000
-Kenneth Kronholm,10/14/85,GK,CHI,360000
-Johan Kappelhof,8/5/90,CB,CHI,675000
-Marcelo,7/27/89,CB,CHI,540000
-Diego Campos,10/1/95,RB,CHI,450000
-Nico Gaitán,2/23/88,AM,CHI,4500000
-Djordje Mihailovic,11/10/98,AM,CHI,1130000
-Brandt Bronico,6/20/95,CM,CHI,450000
-Mike Azira,8/22/87,DM,CHI,360000
-Nemanja Nikolics,12/31/87,CF,CHI,3600000
-Przemyslaw Frankowski,4/12/95,RW,CHI,1350000
-Raheem Edwards,7/17/95,LW,CHI,315000
-Amando Moreno,9/10/95,LW,CHI,270000
-Francisco Calvo,7/8/92,LB,CHI,675000
-Pablo Aránguiz,4/17/97,AM,CHI1,675000
-David Accam,9/28/90,LW,CLB,720000
-Romario Williams,8/15/94,CF,CLB,405000
-Jordan Hamilton,3/17/96,CF,CLB,540000
-Milton Valenzuela,8/13/98,LB,CLB,900000
-Josh Williams,4/18/88,CB,CLB,585000
-Harrison Afful,7/24/86,RB,CLB,540000
-Aboubacar Keita,4/6/00,CB,CLB,45000
-Artur,3/11/96,DM,CLB,1800000
-Federico Higuaín,10/25/84,AM,CLB,540000
-Luis Argudo,12/13/95,AM,CLB,225000
-Ricardo Clark,2/10/83,CM,CLB,158000
-Pedro Santos,4/22/88,RW,CLB,2250000
-Romario Williams,8/15/94,CF,CLB,405000
-Eloy Room,2/6/89,GK,CLB,1350000
-Jon Kempin,4/8/93,GK,CLB,225000
-Jonathan Mensah,7/13/90,CB,CLB,720000
-Waylon Francis,9/20/90,LB,CLB,585000
-Héctor Jiménez,11/3/88,RB,CLB,540000
-Connor Maloney,5/17/95,RB,CLB,90000
-Wil Trapp,1/15/93,DM,CLB,2700000
-David Guzmán,2/18/90,DM,CLB,720000
-Luis Díaz,12/6/98,RM,CLB,270000
-Eduardo Sosa,6/20/96,AM,CLB,225000
-Gyasi Zardes,9/2/91,CF,CLB,3150000
-Youness Mokhtar,8/29/91,LW,CLB,2250000
-David Accam,9/28/90,LW,CLB,720000
-Jordan Hamilton,3/17/96,CF,CLB,540000
-David Guzmán,2/18/90,DM,CLB,720000
-Jonathan Lewis,6/4/97,LW,COL,720000
-Lalas Abubakar,12/25/94,CB,COL,540000
-Clint Irwin,4/1/89,GK,COL,450000
-Keegan Rosenberry,12/11/93,RB,COL,720000
-Lalas Abubakar,12/25/94,CB,COL,540000
-Kortne Ford,1/26/96,CB,COL,450000
-Kofi Opare,10/12/90,CB,COL,360000
-Sebastian Anderson,8/8/02,RB,COL,180000
-Kellyn Acosta,7/24/95,DM,COL,1800000
-Cole Bassett,7/28/01,CM,COL,540000
-Johan Blomberg,6/14/87,RM,COL,450000
-Diego Rubio,5/15/93,CF,COL,630000
-Sam Nicholson,1/20/95,LW,COL,540000
-Andre Shinyashiki,6/11/97,LW,COL,360000
-Tim Howard,3/6/79,GK,COL,270000
-Tommy Smith,3/31/90,CB,COL,855000
-Deklan Wynne,3/20/95,LB,COL,585000
-Danny Wilson,12/27/91,CB,COL,518000
-Axel Sjöberg,3/8/91,CB,COL,450000
-Sam Vines,5/31/99,LB,COL,225000
-Jack Price,12/19/92,CM,COL,675000
-Nicolás Mezquida,1/21/92,AM,COL,540000
-Jonathan Lewis,6/4/97,LW,COL,720000
-Kei Kamara,9/1/84,CF,COL,540000
-Dillon Serna,3/25/94,LW,COL,405000
-Bill Hamid,11/25/90,GK,DC,765000
-Steve Birnbaum,1/23/91,CB,DC,1350000
-Joseph Mora,1/15/93,LB,DC,540000
-Jalen Robinson,5/8/94,CB,DC,270000
-Donovan Pines,3/7/98,CB,DC,135000
-Chris Odoi-Atsem,5/27/95,RB,DC,113000
-Paul Arriola,2/5/95,RM,DC,2250000
-Emmanuel Boateng,1/17/94,LM,DC,720000
-Russell Canouse,6/11/95,CM,DC,675000
-Lucas Rodríguez,4/27/97,LW,DC,2930000
-Chris Seitz,3/12/87,GK,DC,270000
-Leonardo Jara,5/20/91,RB,DC,2700000
-Marquinhos Pedroso,10/4/93,LB,DC,630000
-Frédéric Brillant,6/26/85,CB,DC,450000
-Oniel Fisher,11/22/91,RB,DC,270000
-Luciano Acosta,5/31/94,AM,DC,5400000
-Felipe Martins,9/30/90,CM,DC,720000
-Júnior Moreno,7/20/93,DM,DC,720000
-Ulises Segura,6/23/93,AM,DC,540000
-Chris Durkin,2/8/00,DM,DC,450000
-Wayne Rooney,10/24/85,CF,DC,5400000
-Ola Kamara,10/15/89,CF,DC,1800000
-Quincy Amarikwa,10/29/87,CF,DC,450000
-Emmanuel Boateng,1/17/94,LM,DC,720000
-Marquinhos Pedroso,10/4/93,LB,DC,630000
-Felipe Martins,9/30/90,CM,DC,720000
-Derrick Etienne,11/25/96,LW,FCC,518000
-Spencer Richey,5/30/92,GK,FCC,540000
-Jimmy Hague,8/28/96,GK,FCC,68000
-Kendall Waston,1/1/88,CB,FCC,765000
-Mathieu Deplagne,10/1/91,RB,FCC,720000
-Nick Hagglund,9/14/92,CB,FCC,630000
-Víctor Ulloa,3/4/92,DM,FCC,720000
-Fatai Alashe,10/21/93,DM,FCC,405000
-Jimmy McLaughlin,4/30/93,CM,FCC,180000
-Roland Lamah,12/31/87,LW,FCC,1130000
-Darren Mattocks,9/2/90,CF,FCC,720000
-Emmanuel Ledesma,5/24/88,RW,FCC,540000
-Joseph-Claude Gyau,9/16/92,LW,FCC,338000
-Przemyslaw Tyton,1/4/87,GK,FCC,540000
-Maikel van der Werff,4/22/89,CB,FCC,810000
-Greg Garza,8/16/91,LB,FCC,720000
-Alvas Powell,7/18/94,RB,FCC,675000
-Justin Hoyte,11/20/84,RB,FCC,135000
-Andrew Gutman,10/2/96,LB,FCC,-1
-Leonardo Bertone,3/14/94,CM,FCC,1350000
-Allan Cruz,2/24/96,CM,FCC,540000
-Caleb Stanko,7/26/93,DM,FCC,450000
-Frankie Amaya,9/26/00,AM,FCC,270000
-Corben Bone,9/16/88,CM,FCC,225000
-Fanendo Adi,10/10/90,CF,FCC,1130000
-Kekuta Manneh,12/30/94,LW,FCC,720000
-Derrick Etienne,11/25/96,LW,FCC,518000
-Rashawn Dally,1/14/97,CF,FCC,-1
-Eric Alexander,4/14/88,CM,FCD,450000
-Jesse González,4/25/95,GK,FCD,720000
-Kyle Zobeck,2/9/90,GK,FCD,68000
-Matt Hedges,4/1/90,CB,FCD,1580000
-Ryan Hollingshead,4/16/91,RB,FCD,720000
-Callum Montgomery,5/14/97,CB,FCD,90000
-Paxton Pomykal,12/17/99,AM,FCD,720000
-Jacori Hayes,6/28/95,CM,FCD,518000
-Edwin Cerrillo,10/3/00,DM,FCD,270000
-Thomas Roberts,5/11/01,AM,FCD,90000
-Michael Barrios,4/21/91,RW,FCD,1130000
-Santiago Mosquera,2/7/95,LW,FCD,720000
-Cristian Colmán,2/26/94,CF,FCD,608000
-Ricardo Pepi,1/9/03,CF,FCD,-1
-Jimmy Maurer,10/14/88,GK,FCD,360000
-Reggie Cannon,6/11/98,RB,FCD,1580000
-Reto Ziegler,1/16/86,CB,FCD,720000
-Bressan,1/15/93,CB,FCD,675000
-John Nelson,7/11/98,LB,FCD,270000
-Bryan Reynolds,6/28/01,RB,FCD,90000
-Bryan Acosta,11/24/93,CM,FCD,1350000
-Eric Alexander,4/14/88,CM,FCD,450000
-Brandon Servania,3/12/99,CM,FCD,113000
-Edwin Gyasi,7/1/91,RW,FCD,1800000
-Dominique Badji,10/16/92,CF,FCD,900000
-Jesús Ferreira,12/24/00,CF,FCD,675000
-Zdenek Ondrasek,12/22/88,CF,FCD,225000
-Niko Hansen,9/13/94,RW,HOU,450000
-Christian Ramirez,4/4/91,CF,HOU,1130000
-Joe Willis,8/10/88,GK,HOU,495000
-Aljaz Struna,8/4/90,CB,HOU,675000
-A J DeLaGarza,11/4/87,RB,HOU,540000
-DaMarcus Beasley,5/24/82,LB,HOU,180000
-Tomás Martínez,3/7/95,AM,HOU,1350000
-Memo Rodríguez,12/27/95,LM,HOU,675000
-Juan David Cabezas,2/27/91,DM,HOU,450000
-Alberth Elis,2/12/96,RW,HOU,2250000
-Christian Ramirez,4/4/91,CF,HOU,1130000
-Ronaldo Peña,3/10/97,CF,HOU,540000
-Tommy McNamara,2/6/91,LW,HOU,450000
-Adam Lundqvist,3/20/94,LB,HOU,765000
-José Bizama,6/25/94,CB,HOU,428000
-Kevin Garcia,8/21/90,CB,HOU,360000
-Maynor Figueroa,5/2/83,CB,HOU,180000
-Matías Vera,11/20/95,DM,HOU,720000
-Darwin Cerén,12/31/89,DM,HOU,540000
-Boniek García,9/4/84,CM,HOU,270000
-Mauro Manotas,7/15/95,CF,HOU,2250000
-Romell Quioto,8/9/91,LW,HOU,1800000
-Marlon Hairston,3/23/94,RW,HOU,630000
-Niko Hansen,9/13/94,RW,HOU,450000
-Michael Salazar,11/15/92,CF,HOU,225000
-Tyler Miller,3/12/93,GK,LAFC,1130000
-Danilo Silva,11/24/86,CB,LAFC,900000
-Eddie Segura,2/2/97,CB,LAFC,720000
-Jordan Harvey,1/28/84,LB,LAFC,360000
-Tristan Blackmon,8/12/96,RB,LAFC,135000
-Mark-Anthony Kaye,12/2/94,CM,LAFC,1350000
-Lee Nguyen,10/7/86,AM,LAFC,675000
-Peter-Lee Vassell,2/3/98,AM,LAFC,158000
-Carlos Vela,3/1/89,RW,LAFC,11250000
-Adama Diomande,2/14/90,CF,LAFC,2250000
-Latif Blessing,12/30/96,LW,LAFC,1130000
-Pablo Sisniega,7/7/95,GK,LAFC,90000
-Walker Zimmerman,5/19/93,CB,LAFC,1800000
-Steven Beitashour,2/1/87,RB,LAFC,720000
-Mohamed El-Munir,4/8/92,LB,LAFC,608000
-Dejan Jakovic,7/16/85,CB,LAFC,180000
-Eduard Atuesta,6/18/97,DM,LAFC,1130000
-Alejandro Guido,3/22/94,DM,LAFC,450000
-Javi Pérez,3/29/96,CM,LAFC,90000
-Diego Rossi,3/5/98,LW,LAFC,7200000
-Brian Rodríguez,5/20/00,LW,LAFC,900000
-Rodolfo Zelaya,7/3/88,CF,LAFC,135000
-Adrien Perez,10/13/95,CF,LAFC,90000
-David Bingham,10/19/89,GK,LAG,540000
-Giancarlo González,2/8/88,CB,LAG,900000
-Jörgen Skjelvik,7/5/91,LB,LAG,720000
-Rolf Feltscher,10/6/90,RB,LAG,540000
-Julian Araujo,8/13/01,RB,LAG,180000
-Joe Corona,7/9/90,CM,LAG,900000
-Favio Álvarez,1/23/93,AM,LAG,630000
-Efrain Álvarez,6/19/02,AM,LAG,540000
-Zlatan Ibrahimovic,10/3/81,CF,LAG,3150000
-Uriel Antuna,8/21/97,RW,LAG,585000
-Matt Lampson,9/6/89,GK,LAG,338000
-Diego Polenta,2/6/92,CB,LAG,1350000
-Daniel Steres,11/11/90,CB,LAG,720000
-Dave Romney,6/12/93,CB,LAG,540000
-Jonathan dos Santos,4/26/90,CM,LAG,2250000
-Sebastian Lletget,9/3/92,CM,LAG,900000
-Perry Kitchen,2/29/92,DM,LAG,675000
-Servando Carrasco,8/13/88,CM,LAG,540000
-Juninho,8/1/89,CM,LAG,450000
-Cristian Pavón,1/21/96,RW,LAG,13500000
-Romain Alessandrini,4/3/89,RW,LAG,1800000
-Chris Pontius,5/12/87,LW,LAG,540000
-Vito Mannone,3/2/88,GK,MNUFC,1130000
-Ike Opara,2/21/89,CB,MNUFC,1350000
-Brent Kallman,10/4/90,CB,MNUFC,630000
-Chase Gasper,1/25/96,LB,MNUFC,45000
-Robin Lod,4/17/93,CM,MNUFC,1350000
-Rasmus Schüller,6/18/91,CM,MNUFC,540000
-Thomás Chacón,8/17/00,AM,MNUFC,315000
-Darwin Quintero,9/19/87,RW,MNUFC,2250000
-Ethan Finlay,8/6/90,RW,MNUFC,720000
-Kevin Molino,6/17/90,RW,MNUFC,608000
-Romain Métanire,3/28/90,RB,MNUFC,1580000
-Michael Boxall,8/18/88,CB,MNUFC,585000
-Wilfried Moimbé,10/18/88,LB,MNUFC,360000
-Lawrence Olum,7/10/84,CB,MNUFC,180000
-Hassani Dotson,8/6/97,RB,MNUFC,90000
-Jan Gregus,1/29/91,CM,MNUFC,1580000
-Miguel Ibarra,3/15/90,RM,MNUFC,788000
-Osvaldo Alonso,11/11/85,DM,MNUFC,450000
-Ángelo Rodríguez,4/4/89,CF,MNUFC,1130000
-Abu Danladi,10/18/95,CF,MNUFC,450000
-Evan Bush,3/6/86,GK,MTL,540000
-James Pantemis,2/21/97,GK,MTL,90000
-Daniel Lovitz,8/27/91,LB,MTL,720000
-Jorge Corrales,5/20/91,LB,MTL,450000
-Rudy Camacho,3/5/91,CB,MTL,450000
-Zachary Brault-Guillard,12/30/98,RB,MTL,360000
-Daniel Kinumbe,3/15/99,LB,MTL,90000
-Saphir Taider,2/29/92,CM,MTL,2250000
-Ken Krolicki,3/15/96,CM,MTL,450000
-Bojan Krkic,8/28/90,SS,MTL,1350000
-Maximiliano Urruti,2/22/91,CF,MTL,1350000
-Ballou Tabla,3/31/99,LW,MTL,450000
-Lassi Lappalainen,8/24/98,LW,MTL,225000
-Clément Diop,10/12/93,GK,MTL,315000
-Jason Beaulieu,2/12/94,GK,MTL,45000
-Jukka Raitala,9/15/88,LB,MTL,675000
-Víctor Cabrera,2/7/93,CB,MTL,450000
-Bacary Sagna,2/14/83,RB,MTL,450000
-Zakaria Diallo,8/13/86,CB,MTL,270000
-Karifa Yao,9/28/00,CB,MTL,-1
-Samuel Piette,11/12/94,DM,MTL,1350000
-Shamit Shome,9/5/97,CM,MTL,405000
-Omar Browne,5/3/94,RM,MTL,360000
-Ignacio Piatti,2/4/85,LW,MTL,1350000
-Orji Okwonkwo,1/19/98,LW,MTL,900000
-Anthony Jackson-Hamel,8/3/93,CF,MTL,540000
-Mathieu Choinière,2/7/99,LW,MTL,315000
-Clement Bayiha,3/3/99,RW,MTL,180000
-Jorge Corrales,5/20/91,LB,MTL,450000
-Matt Turner,6/24/94,GK,NE,450000
-Brad Knighton,2/6/85,GK,NE,360000
-Edgar Castillo,10/8/86,LB,NE,720000
-Jalil Anibaba,10/19/88,CB,NE,630000
-Antonio Delamea Mlinar,6/10/91,CB,NE,540000
-Carles Gil,11/22/92,AM,NE,1350000
-Luis Caicedo,5/18/96,DM,NE,675000
-Gustavo Bou,2/18/90,CF,NE,3150000
-Diego Fagúndez,2/14/95,LW,NE,1580000
-Teal Bunbury,2/27/90,CF,NE,900000
-Tajon Buchanan,2/8/99,RW,NE,180000
-Cody Cropper,2/16/93,GK,NE,360000
-Andrew Farrell,3/4/92,RB,NE,765000
-Michael Mancienne,1/8/88,CB,NE,675000
-Brandon Bye,11/29/95,RB,NE,540000
-Scott Caldwell,3/15/91,CM,NE,675000
-Wilfried Zahibo,8/21/93,CM,NE,608000
-Nicolas Firmino,1/30/01,M,NE,45000
-Juan Fernando Caicedo,7/13/89,CF,NE,1580000
-Cristian Penilla,5/2/91,LW,NE,1130000
-Juan Agudelo,11/23/92,CF,NE,675000
-DeJuan Jones,6/24/97,RW,NE,180000
-Sean Johnson,5/31/89,GK,NYCFC,1350000
-Anton Tinnerholm,2/26/91,RB,NYCFC,1580000
-Alexander Callens,5/4/92,CB,NYCFC,900000
-Ronald Matarrita,7/9/94,LB,NYCFC,788000
-Sebastien Ibeagha,1/21/92,CB,NYCFC,540000
-Maxi Moralez,2/27/87,AM,NYCFC,2700000
-Keaton Parks,8/6/97,DM,NYCFC,1350000
-Gary Mackay-Steven,8/31/90,LM,NYCFC,765000
-Tony Rocha,8/21/93,CM,NYCFC,405000
-Alexandru Mitrita,2/8/95,LW,NYCFC,5400000
-Ismael Tajouri-Shradi,3/28/94,RW,NYCFC,1130000
-Brad Stuver,4/16/91,GK,NYCFC,180000
-Luis Barraza,11/8/96,GK,NYCFC,45000
-Maxime Chanot,11/21/89,CB,NYCFC,900000
-Ben Sweat,9/4/91,LB,NYCFC,855000
-Eric Miller,1/15/93,RB,NYCFC,540000
-Joe Scally,12/31/02,RB,NYCFC,90000
-Alexander Ring,4/9/91,CM,NYCFC,1800000
-Ebenezer Ofori,7/1/95,DM,NYCFC,900000
-James Sands,7/6/00,DM,NYCFC,720000
-Juan Torres,7/26/99,DM,NYCFC,135000
-Justin Haak,9/12/01,DM,NYCFC,90000
-Héber,8/10/91,CF,NYCFC,3150000
-Jesús Medina,4/30/97,LW,NYCFC,765000
-Valentín Castellanos,10/3/98,CF,NYCFC,540000
-Eric Miller,1/15/93,RB,NYCFC,540000
-Luis Robles,5/11/84,GK,NYRB,720000
-Tim Parker,2/23/93,CB,NYRB,1350000
-Michael Murillo,2/11/96,RB,NYRB,1130000
-Amro Tarek,5/17/92,CB,NYRB,608000
-Kyle Duncan,8/8/97,RB,NYRB,270000
-Alejandro Romero Gamarra,1/11/95,AM,NYRB,4050000
-Marc Rzatkowski,3/2/90,CM,NYRB,765000
-Cristhian Cásseres Jr,1/20/00,CM,NYRB,360000
-Josh Sims,3/28/97,RW,NYRB,1800000
-Bradley Wright-Phillips,3/12/85,CF,NYRB,1130000
-Alex Muyl,9/30/95,RW,NYRB,765000
-Florian Valot,2/12/93,RW,NYRB,450000
-Andreas Ivan,1/10/95,RW,NYRB,405000
-Ryan Meara,11/15/90,GK,NYRB,180000
-Kemar Lawrence,9/17/92,LB,NYRB,1580000
-Aaron Long,10/12/92,CB,NYRB,1350000
-Connor Lade,11/16/89,RB,NYRB,675000
-Rece Buckmaster,7/7/96,LB,NYRB,-1
-Sean Davis,2/8/93,CM,NYRB,788000
-Daniel Royer,5/22/90,LW,NYRB,1800000
-Brian White,2/3/96,CF,NYRB,450000
-Omir Fernandez,2/8/99,CF,NYRB,248000
-Brian Rowe,11/16/88,GK,OCSC,405000
-Adam Grinwis,4/21/92,GK,OCSC,135000
-Lamine Sané,3/22/87,CB,OCSC,720000
-Ruan,5/29/95,RB,OCSC,540000
-Shane ONeill,9/2/93,CB,OCSC,360000
-Kyle Smith,1/9/92,RB,OCSC,270000
-Alex De John,5/10/91,CB,OCSC,225000
-Sacha Kljestan,9/9/85,AM,OCSC,765000
-Will Johnson,1/21/87,CM,OCSC,675000
-Cristian Higuita,1/12/94,CM,OCSC,450000
-Nani,11/17/86,LW,OCSC,3600000
-Chris Mueller,8/29/96,RW,OCSC,540000
-Robinho,1/19/95,RW,OCSC,540000
-Santiago Patiño,3/10/97,CF,OCSC,90000
-Greg Ranjitsingh,7/18/93,GK,OCSC,270000
-Robin Jansson,11/15/91,CB,OCSC,675000
-João Moutinho,1/12/98,LB,OCSC,450000
-Danilo Acosta,11/17/97,LB,OCSC,315000
-Kamal Miller,5/16/97,CB,OCSC,270000
-Mauricio Pereyra,3/15/90,AM,OCSC,6300000
-Sebastián Méndez,4/26/97,DM,OCSC,720000
-Oriol Rosell,7/7/92,DM,OCSC,630000
-Carlos Ascues,6/19/92,CM,OCSC,450000
-Dillon Powers,2/14/91,CM,OCSC,225000
-Dom Dwyer,7/30/90,CF,OCSC,1800000
-Tesho Akindele,3/31/92,CF,OCSC,540000
-Benji Michel,10/23/97,CF,OCSC,135000
-Robinho,1/19/95,RW,OCSC,540000
-Matt Freese,9/2/98,GK,Philadelphia Union,158000
-Auston Trusty,8/12/98,CB,Philadelphia Union,1130000
-R J Allen,4/17/90,RB,Philadelphia Union,450000
-Aurélien Collin,3/8/86,CB,Philadelphia Union,180000
-Jamiro Monteiro,11/23/93,CM,Philadelphia Union,1580000
-Haris Medunjanin,3/8/85,CM,Philadelphia Union,810000
-Ilsinho,10/12/85,RM,Philadelphia Union,630000
-Andrew Wooten,9/30/89,CF,Philadelphia Union,900000
-Fafà Picault,2/23/91,LW,Philadelphia Union,675000
-Sergio Santos,9/4/94,CF,Philadelphia Union,405000
-Joe Bendik,4/25/89,GK,Philadelphia Union,540000
-Jack Elliott,8/24/95,CB,Philadelphia Union,1130000
-Raymon Gaddis,1/13/90,RB,Philadelphia Union,720000
-Kai Wagner,2/15/97,LB,Philadelphia Union,450000
-Fábinho,3/16/85,LB,Philadelphia Union,225000
-Marco Fabián,7/21/89,AM,Philadelphia Union,1800000
-Alejandro Bedoya,4/29/87,CM,Philadelphia Union,1350000
-Brenden Aaronson,10/22/00,AM,Philadelphia Union,720000
-Warren Creavalle,8/14/90,DM,Philadelphia Union,360000
-Cory Burke,12/28/91,CF,Philadelphia Union,675000
-Kacper Przybylko,3/25/93,CF,Philadelphia Union,405000
-Joe Bendik,4/25/89,GK,Philadelphia Union,540000
-Jeff Attinella,9/29/88,GK,POR,675000
-Jorge Moreira,2/1/90,RB,POR,1350000
-Larrys Mabiala,10/8/87,CB,POR,900000
-Bill Tuiloma,3/27/95,CB,POR,540000
-Julio Cascante,10/3/93,CB,POR,450000
-Andrés Flores,8/31/90,AM,POR,518000
-Brian Fernández,9/26/94,RW,POR,5400000
-Andy Polo,9/29/94,RW,POR,720000
-Tomás Conechny,3/30/98,SS,POR,720000
-Dairon Asprilla,5/25/92,RW,POR,450000
-Steve Clark,4/14/86,GK,POR,360000
-Kendall McIntosh,1/24/94,GK,POR,225000
-Jorge Villafaña,9/16/89,LB,POR,1130000
-Zarek Valentin,8/6/91,RB,POR,675000
-Claude Dielna,12/14/87,CB,POR,450000
-Diego Váleri,5/1/86,AM,POR,2700000
-Cristhian Paredes,5/18/98,CM,POR,540000
-Diego Chará,4/5/86,CM,POR,450000
-Sebastián Blanco,3/15/88,LW,POR,2930000
-Jeremy Ebobisse,2/14/97,CF,POR,720000
-Nick Rimando,6/17/79,GK,RSL,270000
-Nedum Onuoha,11/12/86,CB,RSL,720000
-Brooks Lennon,9/22/97,RB,RSL,675000
-Donny Toia,5/28/92,LB,RSL,540000
-Tony Beltran,10/11/87,RB,RSL,180000
-Erik Holt,9/6/96,CB,RSL,113000
-Damir Kreilach,4/16/89,CM,RSL,1580000
-Nick Besler,5/7/93,CM,RSL,450000
-Kyle Beckerman,4/23/82,DM,RSL,270000
-Jefferson Savarino,11/11/96,RW,RSL,1130000
-Corey Baird,1/30/96,CF,RSL,765000
-Kelyn Rowe,12/2/91,RW,RSL,675000
-Jordan Allen,4/25/95,RW,RSL,135000
-Alex Horwath,3/27/87,GK,RSL,90000
-Justen Glad,2/28/97,CB,RSL,720000
-Aaron Herrera,6/6/97,RB,RSL,675000
-Marcelo Silva,3/21/89,CB,RSL,540000
-Albert Rusnák,7/7/94,AM,RSL,1800000
-Everton Luiz,5/24/88,DM,RSL,900000
-Joao Plata,3/1/92,LW,RSL,900000
-Sam Johnson,5/6/93,CF,RSL,720000
-Sebastián Saucedo,1/22/97,LW,RSL,630000
-Kelyn Rowe,12/2/91,RW,RSL,675000
-Stefan Frei,4/20/86,GK,SEA,900000
-Kelvin Leerdam,6/24/90,RB,SEA,900000
-Nicolás Lodeiro,3/21/89,AM,SEA,3600000
-Emanuel Cecchini,12/24/96,CM,SEA,1130000
-Gustav Svensson,2/7/87,DM,SEA,675000
-Danny Leyva,5/5/03,DM,SEA,135000
-Víctor Rodríguez,7/23/89,LW,SEA,1350000
-Justin Dhillon,6/6/95,CF,SEA,113000
-Brad Smith,4/9/94,LB,SEA,900000
-Xavier Arreaga,9/28/94,CB,SEA,900000
-Kee-hee Kim,7/13/89,CB,SEA,675000
-Cristian Roldán,6/3/95,CM,SEA,3150000
-Joevin Jones,8/3/91,LM,SEA,900000
-Raúl Ruidíaz,7/25/90,CF,SEA,5180000
-Jordan Morris,10/26/94,CF,SEA,1130000
-Harry Shipp,11/7/91,LW,SEA,608000
-Luis Silva,10/12/88,CF,SEA,270000
-Daniel Vega,6/3/84,GK,SJ,180000
-Guram Kashia,7/4/87,CB,SJ,900000
-Hárold Cummings,3/1/92,CB,SJ,675000
-Marcos López,11/20/99,LB,SJ,225000
-François Affolter,3/13/91,CB,SJ,180000
-Aníbal Godoy,2/10/90,DM,SJ,720000
-Judson,5/25/93,DM,SJ,540000
-Eric Calvillo,1/2/98,CM,SJ,135000
-Valeri Qazaishvili,1/29/93,LW,SJ,1350000
-Andrés Ríos,8/1/89,CF,SJ,900000
-Danny Hoesen,1/15/91,CF,SJ,900000
-Chris Wondolowski,1/28/83,CF,SJ,360000
-Andrew Tarbell,10/7/93,GK,SJ,360000
-Nick Lima,11/17/94,RB,SJ,765000
-Tommy Thompson,8/15/95,RB,SJ,540000
-Paul Marie,3/24/95,RB,SJ,158000
-Florian Jungwirth,1/27/89,DM,SJ,900000
-Jackson Yueill,3/19/97,CM,SJ,675000
-Luis Felipe,1/29/96,DM,SJ,270000
-Carlos Fierro,7/24/94,LW,SJ,1350000
-Cristian Espinoza,4/3/95,RW,SJ,1130000
-Magnus Eriksson,4/8/90,RW,SJ,900000
-Shea Salinas,6/24/86,LW,SJ,360000
-Nicolas Hasler,5/4/91,CM,SKC,450000
-Tim Melia,5/15/86,GK,SKC,900000
-Matt Besler,2/11/87,CB,SKC,855000
-Seth Sinovic,1/28/87,LB,SKC,540000
-Luís Martins,6/10/92,LB,SKC,270000
-Felipe Gutiérrez,10/8/90,CM,SKC,1800000
-Yohan Croizet,2/15/92,AM,SKC,1130000
-Róger Espinoza,10/25/86,CM,SKC,720000
-Jimmy Medranda,2/7/94,CM,SKC,630000
-Nicolas Hasler,5/4/91,CM,SKC,450000
-Gerso,2/23/91,LW,SKC,1350000
-Dániel Sallói,7/19/96,LW,SKC,1130000
-Erik Hurtado,11/15/90,CF,SKC,270000
-Andreu Fontàs,11/14/89,CB,SKC,900000
-Graham Zusi,8/18/86,RB,SKC,540000
-Botond Baráth,4/21/92,CB,SKC,405000
-Jaylin Lindsey,3/27/00,RB,SKC,180000
-Ilie Sánchez,11/21/90,DM,SKC,1130000
-Gianluca Busio,5/28/02,CM,SKC,720000
-Rodney Wallace,6/17/88,LM,SKC,630000
-Benny Feilhaber,1/19/85,CM,SKC,540000
-Johnny Russell,4/8/90,RW,SKC,1580000
-Krisztián Németh,1/5/89,CF,SKC,1130000
-Benny Feilhaber,1/19/85,CM,SKC,540000
-Alex Bono,4/25/94,GK,TFC,900000
-Caleb Patterson-Sewell,5/20/87,GK,TFC,135000
-Auro Jr,1/23/96,RB,TFC,720000
-Eriq Zavaleta,8/2/92,CB,TFC,675000
-Laurent Ciman,8/5/85,CB,TFC,540000
-Drew Moor,1/15/84,CB,TFC,270000
-Julian Dunn-Johnson,11/7/00,CB,TFC,90000
-Jonathan Osorio,6/12/92,CM,TFC,3150000
-Marky Delgado,5/16/95,CM,TFC,788000
-Jay Chapman,1/1/94,CM,TFC,540000
-Nicolas Benezet,2/24/91,LW,TFC,2700000
-Erickson Gallardo,7/26/96,LW,TFC,495000
-Ayo Akinola,1/20/00,CF,TFC,405000
-Tsubasa Endoh,8/20/93,RW,TFC,315000
-Quentin Westberg,4/25/86,GK,TFC,540000
-Omar González,10/11/88,CB,TFC,1800000
-Justin Morrow,10/4/87,LB,TFC,675000
-Chris Mavinga,5/26/91,CB,TFC,630000
-Ashtone Morgan,2/9/91,LB,TFC,360000
-Richie Laryea,1/7/95,RB,TFC,225000
-Alejandro Pozuelo,9/20/91,AM,TFC,7200000
-Michael Bradley,7/31/87,CM,TFC,1800000
-Nick DeLeon,7/17/90,RM,TFC,765000
-Liam Fraser,2/13/98,DM,TFC,158000
-Jozy Altidore,11/6/89,CF,TFC,3600000
-Patrick Mullins,2/5/92,CF,TFC,405000
-Griffin Dorsey,3/5/99,RW,TFC,180000
-Jacob Shaffelburg,11/26/99,LW,TFC,-1
-Patrick Mullins,2/5/92,CF,TFC,405000
-Maxime Crépeau,5/11/94,GK,VAN,450000
-Sean Melvin,7/9/94,GK,VAN,90000
-Ali Adnan,12/19/93,LB,VAN,1440000
-Jake Nerwinski,10/16/94,RB,VAN,608000
-Jasser Khemiri,11/13/97,CB,VAN,450000
-PC,3/10/94,LB,VAN,270000
-Derek Cornelius,11/25/97,CB,VAN,180000
-Michaell Chirinos,6/17/95,RM,VAN,900000
-Jon Erice,11/3/86,CM,VAN,360000
-David Norman Jr,5/31/98,CM,VAN,135000
-Michael Baldisimo,4/13/00,DM,VAN,68000
-Joaquín Ardaiz,1/11/99,CF,VAN,1130000
-Tosaint Ricketts,8/6/87,CF,VAN,450000
-Zac MacMath,8/7/91,GK,VAN,270000
-Thomas Hasal,7/9/99,GK,VAN,45000
-Érik Godoy,8/16/93,CB,VAN,1350000
-Doneil Henry,4/20/93,CB,VAN,540000
-Scott Sutter,5/13/86,RB,VAN,428000
-Brett Levis,3/29/93,LB,VAN,225000
-Brendan McDonough,12/27/96,CB,VAN,45000
-In-beom Hwang,9/20/96,CM,VAN,900000
-Russell Teibert,12/22/92,DM,VAN,653000
-Andy Rose,2/13/90,CM,VAN,360000
-Simon Colyn,3/23/02,AM,VAN,68000
-Fredy Montero,7/26/87,CF,VAN,1800000
-Yordy Reyna,9/17/93,CF,VAN,765000
-Lass Bangoura,3/30/92,RW,VAN,630000
-Theo Bair,8/27/99,CF,VAN,45000
+0,MLS1-2018,Major League Soccer,United States
+1,40058,New York City FC,MLS1-2018,54
+2,126630,Sean Johnson,1989-05-31,Lilburn Georgia,United States,190,N/A,N/A,GK,40058,1,1350000
+2,336174,Jeff Caldwell,1996-02-20,Todd North Carolina,United States,190,N/A,N/A,GK,69166,-1,68000
+2,109196,Anton Tinnerholm,1991-02-26,Linköping,Sweden,176,N/A,N/A,RB,40058,3,1580000
+2,147462,Alexander Callens,1992-05-04,Callao,Peru,184,N/A,N/A,CB,40058,6,900000
+2,268273,Ronald Matarrita,1994-07-09,San Ramón,Costa Rica,175,N/A,N/A,LB,40058,22,788000
+2,170854,Sebastien Ibeagha,1992-01-21,Warri,Nigeria,189,N/A,N/A,CB,40058,33,540000
+2,30687,Maxi Moralez,1987-02-27,Granadero Baigorria,Argentina,159,N/A,N/A,AM,40058,10,2700000
+2,451860,Keaton Parks,1997-08-06,Plano Texas,United States,193,N/A,N/A,DM,40058,55,1350000
+2,78961,Gary Mackay-Steven,1990-08-31,Thurso,Scotland,175,N/A,N/A,LM,40058,17,765000
+2,261736,Tony Rocha,1993-08-21,Spring Texas,United States,175,N/A,N/A,CM,40058,15,405000
+2,369848,Daniel Bedoya,1994-02-13,Medellin,Colombia,168,N/A,N/A,AM,67984,-1,90000
+2,209649,Alexandru Mitrita,1995-02-08,Craiova,Romania,167,N/A,N/A,LW,40058,28,5400000
+2,158120,Ismael Tajouri-Shradi,1994-03-28,Bern,Switzerland,170,N/A,N/A,RW,40058,29,1130000
+2,479610,Jonathan Lewis,1997-06-04,Atlanta Georgia,United States,170,N/A,N/A,LW,1247,-1,720000
+2,300600,Brad Stuver,1991-04-16,Mayfield Ohio,United States,191,N/A,N/A,GK,40058,41,180000
+2,644782,Luis Barraza,1996-11-08,Las Cruces New Mexico,United States,188,N/A,N/A,GK,40058,13,45000
+2,89030,Maxime Chanot,1989-11-21,Nancy,France,186,N/A,N/A,CB,40058,4,900000
+2,268310,Ben Sweat,1991-09-04,Palm Harbor Florida,United States,188,N/A,N/A,LB,40058,2,855000
+2,245315,Eric Miller,1993-01-15,Jacksonville Florida,United States,186,N/A,N/A,RB,40058,5,540000
+2,504153,Joe Scally,2002-12-31,Lake Grove New York,United States,179,N/A,N/A,RB,40058,25,90000
+2,82113,Alexander Ring,1991-04-09,Helsinki,Finland,177,N/A,N/A,CM,40058,8,1800000
+2,262597,Ebenezer Ofori,1995-07-01,Kumasi,Ghana,172,N/A,N/A,DM,40058,12,900000
+2,393321,James Sands,2000-07-06,Rye New York,United States,180,N/A,N/A,DM,40058,16,720000
+2,368898,Juan Torres,1999-07-26,Lilburn Georgia,United States,162,N/A,N/A,DM,40058,14,135000
+2,610628,Justin Haak,2001-09-12,Brooklyn New York,United States,184,N/A,N/A,DM,40058,80,90000
+2,150601,Héber,1991-08-10,Colorado do Oeste,Brazil,182,N/A,N/A,CF,40058,9,3150000
+2,353037,Jesús Medina,1997-04-30,Limpio,Paraguay,177,N/A,N/A,LW,40058,19,765000
+2,522784,Valentín Castellanos,1998-10-03,Mendoza,Argentina,179,N/A,N/A,CF,40058,11,540000
+1,25467,Philadelphia Union,MLS1-2018,51
+2,244149,Andre Blake,1990-11-21,May Pen,Jamaica,193,N/A,N/A,GK,25467,18,1350000
+2,378871,Carlos Miguel Coronel,1996-12-29,Corumbá,Brazil,192,N/A,N/A,GK,409,-1,315000
+2,500309,Matt Freese,1998-09-02,Wayne Pennsylvania,United States,193,N/A,N/A,GK,25467,1,158000
+2,389253,Auston Trusty,1998-08-12,Media Pennsylvania,United States,190,N/A,N/A,CB,25467,26,1130000
+2,257020,R J Allen,1990-04-17,Old Bridge New Jersey,United States,180,N/A,N/A,RB,25467,16,450000
+2,429259,Mark McKenzie,1999-02-25,The Bronx New York,United States,180,N/A,N/A,CB,51762,4,428000
+2,426944,Olivier Mbaizo,1997-08-15,Douala,Cameroon,178,N/A,N/A,RB,51762,15,225000
+2,45155,Aurélien Collin,1986-03-08,Enghien-les-Bains,France,188,N/A,N/A,CB,25467,78,180000
+2,272930,Jamiro Monteiro,1993-11-23,Rotterdam,Netherlands,175,N/A,N/A,CM,25467,35,1580000
+2,30666,Haris Medunjanin,1985-03-08,Sarajevo,Jugoslawien (SFR),188,N/A,N/A,CM,25467,6,810000
+2,52937,Ilsinho,1985-10-12,São Bernardo do Campo,Brazil,178,N/A,N/A,RM,25467,25,630000
+2,411554,Derrick Jones,1997-03-03,Bantama,Ghana,190,N/A,N/A,CM,54753,-1,315000
+2,67407,Andrew Wooten,1989-09-30,Bamberg,Germany,186,N/A,N/A,CF,25467,7,900000
+2,408051,Cory Burke,1991-12-28,Kingston,Jamaica,193,N/A,N/A,CF,4292,-1,675000
+2,370561,Sergio Santos,1994-09-04,Belo Horizonte,Brazil,183,N/A,N/A,CF,25467,17,405000
+2,580812,Michee Ngalina,2000-04-06,Kinshasa,DR Congo,180,N/A,N/A,LW,51762,20,158000
+2,168713,Joe Bendik,1989-04-25,Marrietta Georgia,United States,191,N/A,N/A,GK,25467,12,540000
+2,367391,Charlie Lyon,1992-04-10,St Charles Illinois,United States,188,N/A,N/A,GK,46719,-1,180000
+2,490362,Jack Elliott,1995-08-24,London,England,195,N/A,N/A,CB,25467,3,1130000
+2,213017,Raymon Gaddis,1990-01-13,Indianapolis Indiana,United States,175,N/A,N/A,RB,25467,28,720000
+2,357842,Kai Wagner,1997-02-15,Geislingen an der Steige,Germany,182,N/A,N/A,LB,25467,27,450000
+2,368897,Matthew Real,1999-07-10,Drexel Hill Pennsylvania,United States,180,N/A,N/A,LB,51762,32,248000
+2,75081,Fábinho,1985-03-16,Ariquenes,Brazil,173,N/A,N/A,LB,25467,33,225000
+2,67685,Marco Fabián,1989-07-21,Guadalajara,Mexico,170,N/A,N/A,AM,25467,10,1800000
+2,111783,Alejandro Bedoya,1987-04-29,Englewood New Jersey,United States,182,N/A,N/A,CM,25467,11,1350000
+2,393323,Brenden Aaronson,2000-10-22,Medford New Jersey,United States,178,N/A,N/A,AM,25467,22,720000
+2,213005,Warren Creavalle,1990-08-14,Acworth Georgia,United States,183,N/A,N/A,DM,25467,2,360000
+2,447216,Anthony Fontana,1999-10-14,Newark Delaware,United States,173,N/A,N/A,AM,51762,21,225000
+2,221855,David Accam,1990-09-28,Accra,Ghana,174,N/A,N/A,LW,813,-1,720000
+2,216683,Fafà Picault,1991-02-23,New York City New York,United States,173,N/A,N/A,LW,25467,9,675000
+2,86030,Kacper Przybylko,1993-03-25,Bielefeld,Germany,192,N/A,N/A,CF,25467,23,405000
+1,51663,Atlanta United FC,MLS1-2018,48
+2,39471,Brad Guzan,1984-09-09,Evergreen Park Illinois,United States,193,N/A,N/A,GK,51663,1,720000
+2,325389,Brendan Moore,1992-04-16,Elmira New York,United States,188,N/A,N/A,GK,51663,13,90000
+2,468022,Miles Robinson,1997-03-14,Arlington Massachusetts,United States,188,N/A,N/A,CB,51663,12,765000
+2,338169,Franco Escobar,1995-02-21,Rosario,Argentina,180,N/A,N/A,RB,51663,2,675000
+2,504147,George Bello,2002-01-22,Abuja,Nigeria,170,N/A,N/A,LB,64328,21,360000
+2,229640,Julian Gressel,1993-12-16,Neustadt an der Aisch,Germany,185,N/A,N/A,RM,51663,24,2250000
+2,362364,Eric Remedi,1995-06-04,Paraná,Argentina,169,N/A,N/A,DM,51663,11,1580000
+2,71107,Brek Shea,1990-02-28,College Station Texas,United States,190,N/A,N/A,LM,51663,20,675000
+2,42974,Kevin Kratz,1987-01-21,Eschweiler,Germany,173,N/A,N/A,CM,64328,32,450000
+2,364718,Chris Goslin,2000-05-12,Kingston,Jamaica,170,N/A,N/A,AM,64328,27,158000
+2,162569,Josef Martínez,1993-05-19,Valencia,Venezuela,172,N/A,N/A,CF,51663,7,9000000
+2,237061,Héctor Villalba,1994-07-26,Buenos Aires,Argentina,172,N/A,N/A,RW,51663,15,3600000
+2,189782,Romario Williams,1994-08-15,Portmore,Jamaica,180,N/A,N/A,CF,813,-1,405000
+2,499604,Dion Pereira,1999-03-25,Watford,England,-1,N/A,N/A,LW,64328,28,315000
+2,389255,Brandon Vázquez,1998-10-14,Chula Vista California,United States,188,N/A,N/A,CF,64328,19,180000
+2,424205,Luiz Fernando Nascimento,1997-06-23,N/A,N/A,191,N/A,N/A,LW,64328,-1,158000
+2,216686,Alec Kann,1990-08-08,Decatur Georgia,United States,193,N/A,N/A,GK,51663,25,315000
+2,113130,Leandro González Pírez,1992-02-26,Buenos Aires,Argentina,186,N/A,N/A,CB,51663,5,2029999
+2,140497,Florentin Pogba,1990-08-19,Conakry,Guinea,189,N/A,N/A,CB,51663,4,720000
+2,39897,Michael Parkhurst,1984-01-24,Providence Rhode Island,United States,180,N/A,N/A,CB,51663,3,405000
+2,255918,Mikey Ambrose,1993-10-05,El Paso Texas,United States,175,N/A,N/A,LB,64328,22,225000
+2,173489,Darlington Nagbe,1990-07-19,Monrovia,Liberia,175,N/A,N/A,CM,51663,6,1580000
+2,223047,Emerson Hyndman,1996-04-07,Dallas Texas,United States,170,N/A,N/A,CM,51663,16,900000
+2,349781,Mo Adams,1996-09-23,Nottingham,England,167,N/A,N/A,CM,51663,29,450000
+2,24902,Jeff Larentowicz,1983-08-05,Pasadena California,United States,186,N/A,N/A,DM,51663,18,270000
+2,281405,Gonzalo Martínez,1993-06-13,Guaymallén,Argentina,170,N/A,N/A,LW,51663,10,13500000
+2,456623,Ezequiel Barco,1999-03-23,Villa Gobernador Gálvez,Argentina,167,N/A,N/A,LW,51663,8,7200000
+2,175387,Justin Meram,1988-12-04,Shelby Township Michigan,United States,185,N/A,N/A,LW,51663,14,1350000
+2,370841,Andrew Carleton,2000-06-22,Powder Springs Georgia,United States,165,N/A,N/A,LW,64328,30,405000
+2,562553,Jon Gallagher,1996-02-23,Dundalk,Ireland,175,N/A,N/A,LW,370,-1,180000
+2,215765,Gordon Wild,1995-10-16,Stuttgart,Germany,179,N/A,N/A,SS,68031,-1,158000
+2,485378,Patrick Okonkwo,1998-04-23,Lagos,Nigeria,183,N/A,N/A,CF,64328,35,135000
+1,11141,Toronto FC,MLS1-2018,42
+2,272881,Alex Bono,1994-04-25,Syracuse New York,United States,191,N/A,N/A,GK,11141,25,900000
+2,73427,Caleb Patterson-Sewell,1987-05-20,Hendersonville Tennessee,United States,190,N/A,N/A,GK,11141,28,135000
+2,294796,Auro Jr,1996-01-23,Jaú,Brazil,168,N/A,N/A,RB,11141,96,720000
+2,131193,Eriq Zavaleta,1992-08-02,Westfield Indiana,United States,185,N/A,N/A,CB,11141,15,675000
+2,22338,Laurent Ciman,1985-08-05,Farciennes,Belgium,184,N/A,N/A,CB,11141,26,540000
+2,39503,Drew Moor,1984-01-15,Dallas Texas,United States,183,N/A,N/A,CB,11141,3,270000
+2,494823,Julian Dunn-Johnson,2000-11-07,Toronto Ontario,Canada,188,N/A,N/A,CB,11141,52,90000
+2,260807,Jonathan Osorio,1992-06-12,Toronto Ontario,Canada,175,N/A,N/A,CM,11141,21,3150000
+2,222565,Marky Delgado,1995-05-16,Glendora California,United States,175,N/A,N/A,CM,11141,8,788000
+2,189032,Jay Chapman,1994-01-01,Brampton Ontario,Canada,183,N/A,N/A,CM,11141,14,540000
+2,544025,Noble Okello,2000-07-20,Toronto Ontario,Canada,195,N/A,N/A,DM,46823,59,158000
+2,164230,Nicolas Benezet,1991-02-24,Montpellier,France,170,N/A,N/A,LW,11141,7,2700000
+2,331122,Erickson Gallardo,1996-07-26,Barinas Barinas,Venezuela,167,N/A,N/A,LW,11141,9,495000
+2,370979,Ayo Akinola,2000-01-20,Detroit Michigan,United States,177,N/A,N/A,CF,11141,20,405000
+2,417350,Tsubasa Endoh,1993-08-20,--- Tokio,Japan,170,N/A,N/A,RW,11141,31,315000
+2,497483,Ryan Telfer,1994-03-04,Mississauga Ontario,Canada,180,N/A,N/A,LW,67002,54,180000
+2,33934,Quentin Westberg,1986-04-25,Suresnes,France,183,N/A,N/A,GK,11141,16,540000
+2,99690,Omar González,1988-10-11,Dallas Texas,United States,196,N/A,N/A,CB,11141,44,1800000
+2,145116,Justin Morrow,1987-10-04,Cleveland Ohio,United States,173,N/A,N/A,LB,11141,2,675000
+2,93732,Chris Mavinga,1991-05-26,Meaux,France,183,N/A,N/A,CB,11141,23,630000
+2,164559,Ashtone Morgan,1991-02-09,Toronto Ontario,Canada,180,N/A,N/A,LB,11141,5,360000
+2,417348,Richie Laryea,1995-01-07,Toronto Ontario,Canada,175,N/A,N/A,RB,11141,22,225000
+2,188853,Alejandro Pozuelo,1991-09-20,Sevilla,Spain,172,N/A,N/A,AM,11141,10,7200000
+2,30593,Michael Bradley,1987-07-31,Princeton New Jersey,United States,189,N/A,N/A,CM,11141,4,1800000
+2,212979,Nick DeLeon,1990-07-17,Phoenix Arizona,United States,177,N/A,N/A,RM,11141,18,765000
+2,377109,Liam Fraser,1998-02-13,Toronto Ontario,Canada,185,N/A,N/A,DM,11141,27,158000
+2,39378,Jozy Altidore,1989-11-06,Livingston New Jersey,United States,185,N/A,N/A,CF,11141,17,3600000
+2,294707,Jordan Hamilton,1996-03-17,Scarborough Ontario,Canada,185,N/A,N/A,CF,813,-1,540000
+2,251421,Patrick Mullins,1992-02-05,New Orleans Louisiana,United States,186,N/A,N/A,CF,11141,13,405000
+2,103064,Terrence Boyd,1991-02-16,Bremen,Germany,188,N/A,N/A,CF,440,-1,360000
+2,405187,Griffin Dorsey,1999-03-05,Evergreen Colorado,United States,182,N/A,N/A,RW,11141,19,180000
+2,637632,Jacob Shaffelburg,1999-11-26,Port Williams Nova Scotia,Canada,178,N/A,N/A,LW,11141,24,-1
+1,2440,D.C. United,MLS1-2018,42
+2,77714,Bill Hamid,1990-11-25,Annandale Virginia,United States,191,N/A,N/A,GK,2440,24,765000
+2,354886,Earl Edwards Jr,1992-01-24,San Diego California,United States,191,N/A,N/A,GK,68031,36,180000
+2,307728,Steve Birnbaum,1991-01-23,Newport Kalifornien,United States,188,N/A,N/A,CB,2440,15,1350000
+2,131255,Joseph Mora,1993-01-15,Alajuela,Costa Rica,176,N/A,N/A,LB,2440,28,540000
+2,310441,Jalen Robinson,1994-05-08,Catonsville Maryland,United States,175,N/A,N/A,CB,2440,20,270000
+2,638692,Donovan Pines,1998-03-07,Clarksville Maryland,United States,196,N/A,N/A,CB,2440,23,135000
+2,482616,Chris Odoi-Atsem,1995-05-27,Howard County Maryland,United States,178,N/A,N/A,RB,2440,3,113000
+2,189876,Paul Arriola,1995-02-05,Chula Vista California,United States,167,N/A,N/A,RM,2440,7,2250000
+2,279681,Emmanuel Boateng,1994-01-17,Accra,Ghana,167,N/A,N/A,LM,2440,17,720000
+2,184133,Russell Canouse,1995-06-11,Lancaster Pennsylvania,United States,177,N/A,N/A,CM,2440,4,675000
+2,36896,Chris McCann,1987-07-21,Dublin,Ireland,185,N/A,N/A,DM,515,-1,450000
+2,655411,Antonio Bustamante,1997-06-20,Fairfax Virginia,United States,170,N/A,N/A,DM,68031,26,90000
+2,380996,Lucas Rodríguez,1997-04-27,Buenos Aires,Argentina,169,N/A,N/A,LW,2440,11,2930000
+2,61591,Zoltán Stieber,1988-10-16,Sárvár,Hungary,175,N/A,N/A,LW,1391,-1,450000
+2,215765,Gordon Wild,1995-10-16,Stuttgart,Germany,179,N/A,N/A,SS,68031,19,158000
+2,51424,Chris Seitz,1987-03-12,San Luis Obispo California,United States,193,N/A,N/A,GK,2440,1,270000
+2,116163,Leonardo Jara,1991-05-20,Corrientes,Argentina,185,N/A,N/A,RB,2440,29,2700000
+2,218352,Marquinhos Pedroso,1993-10-04,Tubarão,Brazil,175,N/A,N/A,LB,2440,6,630000
+2,75062,Frédéric Brillant,1985-06-26,Sedan,France,190,N/A,N/A,CB,2440,13,450000
+2,357278,Oniel Fisher,1991-11-22,Portmore,Jamaica,175,N/A,N/A,RB,2440,91,270000
+2,644783,Akeem Ward,1996-01-05,Vienna Virginia,United States,170,N/A,N/A,RB,64480,-1,113000
+2,315169,Luciano Acosta,1994-05-31,Rosario,Argentina,160,N/A,N/A,AM,2440,10,5400000
+2,265152,Júnior Moreno,1993-07-20,San Cristóbal,Venezuela,175,N/A,N/A,DM,2440,5,720000
+2,85012,Felipe Martins,1990-09-30,Engenheiro Beltrao,Brazil,173,N/A,N/A,CM,2440,18,720000
+2,306431,Ulises Segura,1993-06-23,San José,Costa Rica,183,N/A,N/A,AM,2440,8,540000
+2,367423,Chris Durkin,2000-02-08,Glen Allen Virginia,United States,182,N/A,N/A,DM,475,-1,450000
+2,3332,Wayne Rooney,1985-10-24,Liverpool,England,176,N/A,N/A,CF,2440,9,5400000
+2,62067,Ola Kamara,1989-10-15,Oslo,Norway,184,N/A,N/A,CF,2440,14,1800000
+2,105973,Quincy Amarikwa,1987-10-29,Bakersfield Kalifornien,United States,175,N/A,N/A,CF,2440,25,450000
+2,627205,Griffin Yow,2002-09-25,Clifton Virginia,United States,-1,N/A,N/A,CF,68031,22,90000
+1,626,New England Revolution,MLS1-2018,39
+2,425306,Matt Turner,1994-06-24,Park Ridge New Jersey,United States,191,N/A,N/A,GK,626,30,450000
+2,59470,Brad Knighton,1985-02-06,Hickory North Carolina,United States,187,N/A,N/A,GK,626,18,360000
+2,53542,Edgar Castillo,1986-10-08,Las Cruces New Mexico,United States,175,N/A,N/A,LB,626,8,720000
+2,174715,Jalil Anibaba,1988-10-19,Fontana California,United States,183,N/A,N/A,CB,626,3,630000
+2,87214,Antonio Delamea Mlinar,1991-06-10,Celje,Jugoslawien (SFR),186,N/A,N/A,CB,626,19,540000
+2,127987,Carles Gil,1992-11-22,Valencia,Spain,171,N/A,N/A,AM,626,22,1350000
+2,426609,Luis Caicedo,1996-05-18,Apartadó,Colombia,172,N/A,N/A,DM,626,27,675000
+2,354752,Zachary Herivaux,1996-02-01,Suita,Japan,186,N/A,N/A,CM,64480,21,135000
+2,71608,Gustavo Bou,1990-02-18,San Antonio de Padua de la Concordia,Argentina,177,N/A,N/A,CF,626,7,3150000
+2,170100,Diego Fagúndez,1995-02-14,Montevideo,Uruguay,171,N/A,N/A,LW,626,14,1580000
+2,141217,Teal Bunbury,1990-02-27,Hamilton Ontario,Canada,188,N/A,N/A,CF,626,10,900000
+2,638793,Tajon Buchanan,1999-02-08,Brampton Ontario,Canada,183,N/A,N/A,RW,626,11,180000
+2,482623,Brian Wright,1995-03-23,Toronto Ontario,Canada,184,N/A,N/A,CF,64480,77,135000
+2,170540,Cody Cropper,1993-02-16,Atlanta Georgia,United States,191,N/A,N/A,GK,67984,-1,360000
+2,253616,Andrew Farrell,1992-03-04,Louisville Kentucky,United States,180,N/A,N/A,RB,626,2,765000
+2,38100,Michael Mancienne,1988-01-08,London,England,184,N/A,N/A,CB,626,28,675000
+2,562389,Brandon Bye,1995-11-29,Kalamazoo Michigan,United States,180,N/A,N/A,RB,626,15,540000
+2,216046,Gabriel Somi,1991-08-24,Örebro,Sweden,176,N/A,N/A,LB,515,-1,405000
+2,228117,Scott Caldwell,1991-03-15,Weymouth Massachusetts,United States,174,N/A,N/A,CM,626,6,675000
+2,198529,Wilfried Zahibo,1993-08-21,Marseille,France,191,N/A,N/A,CM,626,23,608000
+2,636422,Nicolas Firmino,2001-01-30,Mantena,Brazil,180,N/A,N/A,M,626,29,45000
+2,140014,Juan Fernando Caicedo,1989-07-13,Carepa,Colombia,180,N/A,N/A,CF,626,9,1580000
+2,212309,Cristian Penilla,1991-05-02,Esmeraldas,Ecuador,174,N/A,N/A,LW,626,70,1130000
+2,131171,Juan Agudelo,1992-11-23,Manizales,Colombia,185,N/A,N/A,CF,626,17,675000
+2,637146,DeJuan Jones,1997-06-24,Lansing Michigan,United States,175,N/A,N/A,RW,626,24,180000
+2,368907,Justin Rennicks,1999-03-20,Boston Massachusetts,United States,172,N/A,N/A,CF,11228,-1,113000
+1,623,New York Red Bulls,MLS1-2018,38
+2,47289,Luis Robles,1984-05-11,Fort Huachuca Arizona,United States,185,N/A,N/A,GK,623,31,720000
+2,375564,Evan Louro,1996-01-19,South River New Jersey,United States,190,N/A,N/A,GK,39815,24,180000
+2,354737,Tim Parker,1993-02-23,Hicksville New York,United States,188,N/A,N/A,CB,623,26,1350000
+2,354482,Michael Murillo,1996-02-11,Colón,Panama,183,N/A,N/A,RB,623,62,1130000
+2,158997,Amro Tarek,1992-05-17,Los Angeles Kalifornien,United States,189,N/A,N/A,CB,623,3,608000
+2,349699,Kyle Duncan,1997-08-08,New York City New York,United States,177,N/A,N/A,RB,39815,6,270000
+2,355817,Alejandro Romero Gamarra,1995-01-11,Ciudadela,Argentina,171,N/A,N/A,AM,623,10,4050000
+2,53681,Marc Rzatkowski,1990-03-02,Bochum,Germany,172,N/A,N/A,CM,623,90,765000
+2,467632,Cristhian Cásseres Jr,2000-01-20,Caracas,Venezuela,174,N/A,N/A,CM,623,23,360000
+2,286919,Josh Sims,1997-03-28,Yeovil,England,168,N/A,N/A,RW,623,20,1800000
+2,28813,Bradley Wright-Phillips,1985-03-12,London,England,173,N/A,N/A,CF,623,99,1130000
+2,413690,Alex Muyl,1995-09-30,New York City New York,United States,180,N/A,N/A,RW,623,19,765000
+2,170465,Florian Valot,1993-02-12,Pau,France,180,N/A,N/A,RW,623,22,450000
+2,200041,Andreas Ivan,1995-01-10,Pitești,Romania,180,N/A,N/A,RW,515,-1,405000
+2,509916,Tom Barlow,1995-07-08,St Louis Missouri,United States,188,N/A,N/A,CF,39815,74,270000
+2,455564,Ben Mines,2000-05-13,Ridgefield Connecticut,United States,175,N/A,N/A,RW,39815,17,180000
+2,213051,Ryan Meara,1990-11-15,Yonkers New York,United States,192,N/A,N/A,GK,623,18,180000
+2,288710,Kemar Lawrence,1992-09-17,Kingston,Jamaica,177,N/A,N/A,LB,623,92,1580000
+2,271072,Aaron Long,1992-10-12,Oak Hills California,United States,186,N/A,N/A,CB,623,33,1350000
+2,209845,Connor Lade,1989-11-16,Livingston New Jersey,United States,170,N/A,N/A,RB,623,5,675000
+2,644798,Sean Nealis,1997-01-13,Massapequa New York,United States,193,N/A,N/A,CB,39815,15,360000
+2,638411,Rece Buckmaster,1996-07-07,Auburn Indiana,United States,173,N/A,N/A,LB,623,91,135000
+2,271184,Sean Davis,1993-02-08,Long Branch New Jersey,United States,183,N/A,N/A,CM,623,27,788000
+2,429455,Vincent Bezecourt,1993-06-10,Aire-sur-lAdour,France,170,N/A,N/A,AM,39815,88,540000
+2,615026,Jean-Christophe Koffi,1998-01-05,Abidjan,Cote dIvoire,175,N/A,N/A,CM,39815,8,135000
+2,74762,Daniel Royer,1990-05-22,Schladming,Austria,177,N/A,N/A,LW,623,77,1800000
+2,542796,Mathias Jörgensen,2000-09-20,Hundested,Denmark,185,N/A,N/A,CF,39815,25,900000
+2,354763,Derrick Etienne,1996-11-25,Richmond Virginia,United States,178,N/A,N/A,LW,51772,-1,518000
+2,562555,Brian White,1996-02-03,Flemington New Jersey,United States,180,N/A,N/A,CF,623,42,450000
+2,482646,Marcus Epps,1995-01-06,Jackson Mississippi,United States,183,N/A,N/A,RW,69166,-1,270000
+2,467271,Omir Fernandez,1999-02-08,The Bronx New York,United States,175,N/A,N/A,RW,623,21,248000
+1,4078,Montreal Impact,MLS1-2018,37
+2,148916,Evan Bush,1986-03-06,Concord Township Ohio,United States,188,N/A,N/A,GK,4078,1,540000
+2,429217,James Pantemis,1997-02-21,Montreal Quebec,Canada,185,N/A,N/A,GK,4078,41,90000
+2,271198,Daniel Lovitz,1991-08-27,Wyndmoor Pennsylvania,United States,178,N/A,N/A,LB,4078,3,720000
+2,353463,Víctor Cabrera,1993-02-07,Lules,Argentina,183,N/A,N/A,CB,4078,2,450000
+2,210374,Jorge Corrales,1991-05-20,Pinar del Río,Cuba,179,N/A,N/A,LB,4078,26,450000
+2,395676,Zachary Brault-Guillard,1998-12-30,Delmas,Haiti,171,N/A,N/A,RB,4078,15,360000
+2,5477,Rod Fanni,1981-12-06,Martigues,France,186,N/A,N/A,RB,4078,-1,158000
+2,677677,Karifa Yao,2000-09-28,Laval Quebec,Canada,188,N/A,N/A,CB,4078,24,-1
+2,189019,Samuel Piette,1994-11-12,Repentigny Quebec,Canada,171,N/A,N/A,DM,4078,6,1350000
+2,423445,Shamit Shome,1997-09-05,Edmonton Alberta,Canada,175,N/A,N/A,CM,4078,28,405000
+2,228498,Mike Azira,1987-08-22,Kampala,Uganda,178,N/A,N/A,DM,432,-1,360000
+2,424993,Amar Sejdic,1996-11-29,Berlin,Germany,179,N/A,N/A,M,39151,-1,-1
+2,37433,Ignacio Piatti,1985-02-04,General Baldissera,Argentina,180,N/A,N/A,LW,4078,10,1350000
+2,401935,Orji Okwonkwo,1998-01-19,Benin City,Nigeria,178,N/A,N/A,LW,4078,18,900000
+2,333093,Anthony Jackson-Hamel,1993-08-03,Quebec City Quebec,Canada,182,N/A,N/A,CF,4078,11,540000
+2,589006,Mathieu Choinière,1999-02-07,Saint-Alexandre Québec,Canada,175,N/A,N/A,LW,4078,29,315000
+2,589005,Clement Bayiha,1999-03-03,Yaoundé,Cameroon,174,N/A,N/A,RW,4078,27,180000
+2,190915,Clément Diop,1993-10-12,Paris,France,185,N/A,N/A,GK,4078,23,315000
+2,560945,Jason Beaulieu,1994-02-12,Boisbriand Québec,Canada,193,N/A,N/A,GK,4078,40,45000
+2,47785,Jukka Raitala,1988-09-15,Kerava,Finland,181,N/A,N/A,LB,4078,22,675000
+2,170904,Rudy Camacho,1991-03-05,LArbresle,France,186,N/A,N/A,CB,4078,4,450000
+2,26764,Bacary Sagna,1983-02-14,Sens,France,176,N/A,N/A,RB,4078,33,450000
+2,137930,Zakaria Diallo,1986-08-13,Équemauville,France,194,N/A,N/A,CB,826,-1,270000
+2,589004,Daniel Kinumbe,1999-03-15,N/A,N/A,173,N/A,N/A,LB,4078,25,90000
+2,144779,Saphir Taider,1992-02-29,Castres,France,180,N/A,N/A,CM,4078,8,2250000
+2,570049,Ken Krolicki,1996-03-15,Fukuoka,Japan,178,N/A,N/A,CM,4078,13,450000
+2,189523,Omar Browne,1994-05-03,Panama City,Panama,173,N/A,N/A,RM,28218,-1,360000
+2,565015,Luca Ricci,1998-02-23,LaSalle Quebec,Canada,166,N/A,N/A,DM,39151,-1,45000
+2,44675,Bojan Krkic,1990-08-28,Liñola,Spain,173,N/A,N/A,SS,4078,9,1350000
+2,193781,Maximiliano Urruti,1991-02-22,Rosario,Argentina,184,N/A,N/A,CF,4078,37,1350000
+2,118294,Harry Novillo,1992-02-11,Lyon,France,182,N/A,N/A,LW,515,-1,540000
+2,408886,Ballou Tabla,1999-03-31,Abidjan,Cote dIvoire,174,N/A,N/A,LW,4078,17,450000
+2,322993,Lassi Lappalainen,1998-08-24,Helsinki,Finland,183,N/A,N/A,LW,4078,21,225000
+1,45604,Orlando City SC,MLS1-2018,35
+2,213545,Brian Rowe,1988-11-16,Chicago Illinois,United States,185,N/A,N/A,GK,45604,23,405000
+2,228150,Adam Grinwis,1992-04-21,Ada Michigan,United States,188,N/A,N/A,GK,45604,99,135000
+2,93758,Lamine Sané,1987-03-22,Villeneuve-sur-Lot,France,192,N/A,N/A,CB,45604,22,720000
+2,520491,Ruan,1995-05-29,Rio de Janeiro,Brazil,174,N/A,N/A,RB,45604,2,540000
+2,229912,Shane ONeill,1993-09-02,Midleton,Ireland,188,N/A,N/A,CB,45604,12,360000
+2,429271,Kyle Smith,1992-01-09,Cincinnati Ohio,United States,184,N/A,N/A,RB,45604,24,270000
+2,318222,Alex De John,1991-05-10,Marlboro Township New Jersey,United States,183,N/A,N/A,CB,45604,3,225000
+2,39475,Sacha Kljestan,1985-09-09,Huntington Beach Kalifornien,United States,185,N/A,N/A,AM,45604,16,765000
+2,38215,Will Johnson,1987-01-21,Toronto Ontario,Canada,178,N/A,N/A,CM,45604,4,675000
+2,211386,Cristian Higuita,1994-01-12,Cali,Colombia,174,N/A,N/A,CM,45604,7,450000
+2,401726,Josué Colmán,1998-07-25,Asunción,Paraguay,168,N/A,N/A,AM,1214,-1,405000
+2,33706,Nani,1986-11-17,Praia,Cape Verde,177,N/A,N/A,LW,45604,17,3600000
+2,562387,Chris Mueller,1996-08-29,Schaumburg Illinois,United States,175,N/A,N/A,RW,45604,9,540000
+2,347184,Robinho,1995-01-19,Madalena,Brazil,166,N/A,N/A,RW,45604,95,540000
+2,644780,Santiago Patiño,1997-03-10,Medellín,Colombia,185,N/A,N/A,CF,45604,29,90000
+2,367436,Greg Ranjitsingh,1993-07-18,Pickering Ontario,Canada,188,N/A,N/A,GK,45604,18,270000
+2,401361,Mason Stajduhar,1997-12-02,Salem Massachusetts,United States,188,N/A,N/A,GK,24260,-1,45000
+2,151678,Robin Jansson,1991-11-15,N/A,N/A,187,N/A,N/A,CB,45604,6,675000
+2,461906,João Moutinho,1998-01-12,Lisbon,Portugal,183,N/A,N/A,LB,45604,44,450000
+2,375074,Danilo Acosta,1997-11-17,San Pedro Sula,Honduras,180,N/A,N/A,LB,45604,25,315000
+2,487504,Kamal Miller,1997-05-16,Scarborough Ontario,Canada,183,N/A,N/A,CB,45604,27,270000
+2,102452,Mauricio Pereyra,1990-03-15,Montevideo,Uruguay,170,N/A,N/A,AM,45604,33,6300000
+2,330682,Sebastián Méndez,1997-04-26,Mira,Ecuador,171,N/A,N/A,DM,45604,8,720000
+2,166628,Oriol Rosell,1992-07-07,Puig-reig,Spain,182,N/A,N/A,DM,45604,20,630000
+2,189283,Carlos Ascues,1992-06-19,Caracas,Venezuela,187,N/A,N/A,CM,45604,26,450000
+2,125698,Dillon Powers,1991-02-14,Plano Texas,United States,180,N/A,N/A,CM,45604,5,225000
+2,105185,Dom Dwyer,1990-07-30,Cuckfield,England,176,N/A,N/A,CF,45604,14,1800000
+2,307720,Tesho Akindele,1992-03-31,Calgary Alberta,Canada,186,N/A,N/A,CF,45604,13,540000
+2,627183,Benji Michel,1997-10-23,Orlando Florida,United States,178,N/A,N/A,CF,45604,19,135000
+1,432,Chicago Fire,MLS1-2018,34
+2,22913,David Ousted,1985-02-01,Greve,Denmark,192,N/A,N/A,GK,432,1,450000
+2,178861,Richard Sánchez,1994-04-05,Mission Hills Kalifornien,United States,191,N/A,N/A,GK,432,45,270000
+2,656316,Gabriel Slonina,2004-05-15,Addison Illinois,United States,193,N/A,N/A,GK,432,32,90000
+2,188470,Francisco Calvo,1992-07-08,San José,Costa Rica,180,N/A,N/A,LB,432,5,675000
+2,210374,Jorge Corrales,1991-05-20,Pinar del Río,Cuba,179,N/A,N/A,LB,4078,-1,450000
+2,39454,Jonathan Bornstein,1984-11-07,Torrance Kalifornien,United States,175,N/A,N/A,LB,432,3,315000
+2,647501,Andre Reynolds II,2001-05-02,Chicago Illinois,United States,175,N/A,N/A,LB,432,36,45000
+2,2514,Bastian Schweinsteiger,1984-08-01,Kolbermoor,Germany,183,N/A,N/A,CM,432,31,2250000
+2,39479,Dax McCarty,1987-04-30,Winter Park Florida,United States,175,N/A,N/A,CM,432,6,900000
+2,349781,Mo Adams,1996-09-23,Nottingham,England,167,N/A,N/A,CM,51663,-1,450000
+2,419247,Christian Martínez,1997-02-06,Panama City,Panama,170,N/A,N/A,RM,62204,-1,405000
+2,402838,Jeremiah Gutjahr,1997-08-10,Bloomington Indiana,United States,177,N/A,N/A,RM,432,33,158000
+2,139915,Aleksandar Katai,1991-02-06,Vrbas,Jugoslawien (SFR),182,N/A,N/A,LW,432,10,1800000
+2,174724,CJ Sapong,1988-12-27,Manassas Virginia,United States,185,N/A,N/A,CF,432,9,1130000
+2,196077,Fabian Herbers,1993-08-17,Ahaus,Germany,182,N/A,N/A,RW,432,21,315000
+2,18971,Kenneth Kronholm,1985-10-14,Fort Belvoir Virginia,United States,189,N/A,N/A,GK,432,27,360000
+2,482647,Stefan Cleveland,1994-05-24,Dayton Ohio,United States,188,N/A,N/A,GK,70332,30,180000
+2,124888,Johan Kappelhof,1990-08-05,Amsterdam,Netherlands,180,N/A,N/A,CB,432,4,675000
+2,190185,Marcelo,1989-07-27,Rio de Janeiro,Brazil,185,N/A,N/A,CB,432,2,540000
+2,379892,Diego Campos,1995-10-01,San José,Costa Rica,178,N/A,N/A,RB,432,17,450000
+2,570559,Grant Lillard,1995-12-05,Scottsdale Arizona,United States,193,N/A,N/A,CB,70332,15,158000
+2,75442,Nico Gaitán,1988-02-23,San Martín,Argentina,174,N/A,N/A,AM,432,20,4500000
+2,484756,Djordje Mihailovic,1998-11-10,Lemont Illinois,United States,178,N/A,N/A,AM,432,14,1130000
+2,114038,Nicolas Hasler,1991-05-04,Vaduz,Liechtenstein,181,N/A,N/A,CM,4284,-1,450000
+2,271183,Brandt Bronico,1995-06-20,Westminster Maryland,United States,173,N/A,N/A,CM,432,13,450000
+2,228498,Mike Azira,1987-08-22,Kampala,Uganda,178,N/A,N/A,DM,432,16,360000
+2,102281,Nemanja Nikolics,1987-12-31,Senta,Jugoslawien (SFR),180,N/A,N/A,CF,432,23,3600000
+2,239743,Przemyslaw Frankowski,1995-04-12,Gdańsk,Poland,176,N/A,N/A,RW,432,11,1350000
+2,367429,Raheem Edwards,1995-07-17,Toronto Ontario,Canada,172,N/A,N/A,LW,432,7,315000
+2,253573,Amando Moreno,1995-09-10,Perth Amboy New Jersey,United States,174,N/A,N/A,LW,432,12,270000
+1,813,Columbus Crew SC,MLS1-2018,31
+2,221624,Zack Steffen,1995-04-02,Coatesville Pennsylvania,United States,191,N/A,N/A,GK,38,-1,4500000
+2,168713,Joe Bendik,1989-04-25,Marrietta Georgia,United States,191,N/A,N/A,GK,25467,-1,540000
+2,422401,Milton Valenzuela,1998-08-13,Rosario,Argentina,170,N/A,N/A,LB,813,19,900000
+2,163492,Josh Williams,1988-04-18,Akron Ohio,United States,187,N/A,N/A,CB,813,3,585000
+2,482611,Lalas Abubakar,1994-12-25,Kumasi,Ghana,185,N/A,N/A,CB,1247,-1,540000
+2,65830,Harrison Afful,1986-07-24,Kumasi,Ghana,168,N/A,N/A,RB,813,25,540000
+2,478530,Alex Crognale,1994-08-27,Columbus Ohio,United States,196,N/A,N/A,CB,39148,21,450000
+2,638733,Aboubacar Keita,2000-04-06,New York New York,United States,185,N/A,N/A,CB,813,30,45000
+2,435488,Artur,1996-03-11,Brumado,Brazil,180,N/A,N/A,DM,813,8,1800000
+2,45612,Federico Higuaín,1984-10-25,Buenos Aires,Argentina,172,N/A,N/A,AM,813,10,540000
+2,570561,Luis Argudo,1995-12-13,Queens New York,United States,175,N/A,N/A,AM,813,2,225000
+2,39840,Ricardo Clark,1983-02-10,Atlanta Georgia,United States,178,N/A,N/A,CM,813,13,158000
+2,131163,Pedro Santos,1988-04-22,Lisboa,Portugal,173,N/A,N/A,RW,813,7,2250000
+2,175387,Justin Meram,1988-12-04,Shelby Township Michigan,United States,185,N/A,N/A,LW,51663,-1,1350000
+2,347184,Robinho,1995-01-19,Madalena,Brazil,166,N/A,N/A,RW,45604,-1,540000
+2,482613,Niko Hansen,1994-09-13,Randers,Denmark,178,N/A,N/A,RW,9168,-1,450000
+2,189782,Romario Williams,1994-08-15,Portmore,Jamaica,180,N/A,N/A,CF,813,17,405000
+2,79294,Eloy Room,1989-02-06,Nijmegen,Netherlands,190,N/A,N/A,GK,813,1,1350000
+2,161010,Jon Kempin,1993-04-08,Leawood Kansas,United States,185,N/A,N/A,GK,813,24,225000
+2,110622,Jonathan Mensah,1990-07-13,Accra,Ghana,188,N/A,N/A,CB,813,4,720000
+2,211587,Waylon Francis,1990-09-20,Puerto Limón,Costa Rica,177,N/A,N/A,LB,813,14,585000
+2,178226,Héctor Jiménez,1988-11-03,Huntington Park California,United States,175,N/A,N/A,RB,813,16,540000
+2,96740,Gastón Sauro,1990-02-23,Rosario,Argentina,189,N/A,N/A,CB,1804,-1,450000
+2,492054,Connor Maloney,1995-05-17,Harrisburg Pennsylvania,United States,167,N/A,N/A,RB,813,31,90000
+2,199559,Wil Trapp,1993-01-15,Gahanna Ohio,United States,173,N/A,N/A,DM,813,6,2700000
+2,124978,David Guzmán,1990-02-18,San José,Costa Rica,176,N/A,N/A,DM,813,9,720000
+2,538984,Luis Díaz,1998-12-06,Nicoya,Costa Rica,180,N/A,N/A,RM,813,18,270000
+2,377377,Eduardo Sosa,1996-06-20,Barinas Barinas,Venezuela,167,N/A,N/A,AM,813,20,225000
+2,254230,Gyasi Zardes,1991-09-02,Hawthorne Kalifornien,United States,188,N/A,N/A,CF,813,11,3150000
+2,83946,Youness Mokhtar,1991-08-29,Utrecht,Netherlands,178,N/A,N/A,LW,813,34,2250000
+2,221855,David Accam,1990-09-28,Accra,Ghana,174,N/A,N/A,LW,813,29,720000
+2,294707,Jordan Hamilton,1996-03-17,Scarborough Ontario,Canada,185,N/A,N/A,CF,813,5,540000
+2,251421,Patrick Mullins,1992-02-05,New Orleans Louisiana,United States,186,N/A,N/A,CF,11141,-1,405000
+2,644786,JJ Williams,1998-01-04,Clovis New Mexico,United States,193,N/A,N/A,CF,64480,33,90000
+1,51772,FC Cincinnati,MLS1-2018,18
+2,131190,Spencer Richey,1992-05-30,Seattle Washington,United States,185,N/A,N/A,GK,51772,18,540000
+2,637143,Jimmy Hague,1996-08-28,Dearborn Michigan,United States,193,N/A,N/A,GK,51772,13,68000
+2,195540,Kendall Waston,1988-01-01,San José,Costa Rica,196,N/A,N/A,CB,51772,2,765000
+2,127128,Mathieu Deplagne,1991-10-01,Montpellier,France,183,N/A,N/A,RB,51772,17,720000
+2,307890,Nick Hagglund,1992-09-14,Cincinnati Ohio,United States,186,N/A,N/A,CB,51772,14,630000
+2,255927,Blake Smith,1991-01-17,El Paso Texas,United States,179,N/A,N/A,LB,68221,-1,248000
+2,637452,Logan Gdula,1996-10-13,Norwich Connecticut,United States,180,N/A,N/A,CB,67984,-1,-1
+2,209019,Kenny Saief,1993-12-17,Panama City Florida,United States,176,N/A,N/A,LM,58,-1,1800000
+2,158123,Víctor Ulloa,1992-03-04,Ciudad Juárez,Mexico,181,N/A,N/A,DM,51772,8,720000
+2,146031,Eric Alexander,1988-04-14,Portage Michigan,United States,185,N/A,N/A,CM,8816,-1,450000
+2,268280,Fatai Alashe,1993-10-21,Southfield Michigan,United States,183,N/A,N/A,DM,51772,27,405000
+2,308162,Nazmi Albadawi,1991-08-24,Raleigh North Carolina,United States,180,N/A,N/A,AM,11228,-1,248000
+2,210368,Jimmy McLaughlin,1993-04-30,Bryn Mawr Pennsylvania,United States,173,N/A,N/A,CM,51772,20,180000
+2,35035,Roland Lamah,1987-12-31,Abidjan,Cote dIvoire,180,N/A,N/A,LW,51772,7,1130000
+2,206793,Darren Mattocks,1990-09-02,Portmore,Jamaica,183,N/A,N/A,CF,51772,11,720000
+2,62247,Emmanuel Ledesma,1988-05-24,Quilmes,Argentina,180,N/A,N/A,RW,51772,45,540000
+2,160670,Joseph-Claude Gyau,1992-09-16,Tampa Florida,United States,175,N/A,N/A,LW,51772,36,338000
+2,33210,Przemyslaw Tyton,1987-01-04,Zamosc,Poland,195,N/A,N/A,GK,51772,22,540000
+2,81778,Maikel van der Werff,1989-04-22,Hoorn,Netherlands,186,N/A,N/A,CB,51772,23,810000
+2,118318,Greg Garza,1991-08-16,Grapevine Texas,United States,172,N/A,N/A,LB,51772,4,720000
+2,189772,Alvas Powell,1994-07-18,Danvers Pen,Jamaica,182,N/A,N/A,RB,51772,92,675000
+2,367070,Forrest Lasso,1993-05-11,Raleigh North Carolina,United States,196,N/A,N/A,CB,54753,-1,270000
+2,7335,Justin Hoyte,1984-11-20,London,England,180,N/A,N/A,RB,51772,32,135000
+2,638408,Andrew Gutman,1996-10-02,Hinsdale Illinois,United States,180,N/A,N/A,LB,51772,96,-1
+2,194975,Leonardo Bertone,1994-03-14,Wohlen bei Bern,Switzerland,179,N/A,N/A,CM,51772,6,1350000
+2,313234,Allan Cruz,1996-02-24,Nicoya,Costa Rica,165,N/A,N/A,CM,51772,15,540000
+2,190269,Caleb Stanko,1993-07-26,Holly Michigan,United States,180,N/A,N/A,DM,51772,33,450000
+2,575368,Frankie Amaya,2000-09-26,Santa Ana California,United States,163,N/A,N/A,AM,51772,24,270000
+2,141216,Corben Bone,1988-09-16,Plano Texas,United States,175,N/A,N/A,CM,51772,19,225000
+2,315772,Tommy McCabe,1998-04-04,N/A,N/A,180,N/A,N/A,DM,11228,-1,-1
+2,79654,Fanendo Adi,1990-10-10,Lagos,Nigeria,193,N/A,N/A,CF,51772,9,1130000
+2,253053,Kekuta Manneh,1994-12-30,Bakau,The Gambia,175,N/A,N/A,LW,51772,31,720000
+2,354763,Derrick Etienne,1996-11-25,Richmond Virginia,United States,178,N/A,N/A,LW,51772,16,518000
+2,652007,Rashawn Dally,1997-01-14,Bloomfield Connecticut,United States,188,N/A,N/A,CF,51772,81,-1
+1,51828,Los Angeles FC,MLS1-2018,63
+2,353479,Tyler Miller,1993-03-12,Woodbury New Jersey,United States,193,N/A,N/A,GK,51828,1,1130000
+2,575370,Philip Ejimadu,1999-08-31,Minneapolis Minnesota,United States,190,N/A,N/A,GK,36336,-1,45000
+2,425567,Diego Palacios,1999-07-12,Guayaquil,Ecuador,169,N/A,N/A,LB,51828,-1,1350000
+2,145114,Steven Beitashour,1987-02-01,San José Kalifornien,United States,178,N/A,N/A,RB,51828,3,720000
+2,202764,Mohamed El-Munir,1992-04-08,Tripoli,Libya,177,N/A,N/A,LB,51828,13,608000
+2,77360,Dejan Jakovic,1985-07-16,Karlovac,Jugoslawien (SFR),188,N/A,N/A,CB,62204,-1,180000
+2,495882,Lamar Batista,1998-03-07,Waco Texas,United States,196,N/A,N/A,CB,36336,19,135000
+2,329722,André Horta,1996-11-07,Almada,Portugal,175,N/A,N/A,AM,1075,-1,4050000
+2,469135,Eduard Atuesta,1997-06-18,Vélez,Colombia,180,N/A,N/A,DM,51828,20,1130000
+2,189883,Alejandro Guido,1994-03-22,San Diego California,United States,185,N/A,N/A,DM,51828,15,450000
+2,384367,Javi Pérez,1996-03-29,Rocafort,Spain,175,N/A,N/A,CM,51828,16,90000
+2,317454,Diego Rossi,1998-03-05,Montevideo,Uruguay,170,N/A,N/A,LW,51828,9,7200000
+2,236590,Christian Ramirez,1991-04-04,Garden Grove California,United States,188,N/A,N/A,CF,9168,-1,1130000
+2,465818,Brian Rodríguez,2000-05-20,Tranqueras,Uruguay,173,N/A,N/A,LW,51828,17,900000
+2,78490,Rodolfo Zelaya,1988-07-03,Usulután,El Salvador,175,N/A,N/A,CF,62204,-1,135000
+2,589774,Adrien Perez,1995-10-13,Los Angeles California,United States,184,N/A,N/A,CF,51828,26,90000
+2,351477,Pablo Sisniega,1995-07-07,Mexiko-Stadt,Mexico,193,N/A,N/A,GK,51828,23,90000
+2,245337,Walker Zimmerman,1993-05-19,Lawrenceville Georgia,United States,190,N/A,N/A,CB,51828,25,1800000
+2,61952,Danilo Silva,1986-11-24,Campinas,Brazil,186,N/A,N/A,CB,51828,6,900000
+2,459466,Eddie Segura,1997-02-02,Pereira,Colombia,178,N/A,N/A,CB,51828,4,720000
+2,39354,Jordan Harvey,1984-01-28,Mission Viejo Kalifornien,United States,183,N/A,N/A,LB,51828,2,360000
+2,351546,Niko Hämäläinen,1997-03-05,Miami Florida,United States,178,N/A,N/A,LB,2553,-1,135000
+2,562383,Tristan Blackmon,1996-08-12,Las Vegas Nevada,United States,186,N/A,N/A,RB,51828,27,135000
+2,343553,Mark-Anthony Kaye,1994-12-02,Toronto Ontario,Canada,185,N/A,N/A,CM,51828,14,1350000
+2,37604,Lee Nguyen,1986-10-07,Richardson Texas,United States,172,N/A,N/A,AM,51828,24,675000
+2,573222,Peter-Lee Vassell,1998-02-03,Saint James Parish,Jamaica,-1,N/A,N/A,AM,33414,-1,158000
+2,35773,Carlos Vela,1989-03-01,Cancún,Mexico,177,N/A,N/A,RW,51828,10,11250000
+2,93145,Adama Diomande,1990-02-14,Oslo,Norway,180,N/A,N/A,CF,51828,99,2250000
+2,398238,Latif Blessing,1996-12-30,Accra,Ghana,165,N/A,N/A,LW,51828,7,1130000
